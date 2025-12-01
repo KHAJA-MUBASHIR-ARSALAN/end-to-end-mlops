@@ -72,29 +72,51 @@ def preprocessing(df : pd.DataFrame) -> pd.DataFrame:
     raise
 
 
-def save_data(train_data : pd.DataFrame, test_data : pd.DataFrame, data_path : str) -> None:
-  """saving train and test data"""
-  try:
-    raw_data_path = os.path.join(data_path,'raw')
-    os.makedirs(raw_data_path,exist_ok=True)
-    train_data.to_csv(os.path.join(raw_data_path,'train.csv'),index=False)
-    test_data.to_csv(os.path.join(raw_data_path,'test.csv'),index=False)
-    logger.debug('data is successfully saved to %s',raw_data_path)
-    print("✅ Data ingestion pipeline completed successfully.")
-  except Exception as e:
-    logger.debug('unexpected error occured during saving data: %s', e)
-    raise
+# def save_data(train_data : pd.DataFrame, test_data : pd.DataFrame, data_path : str) -> None:
+#   """saving train and test data"""
+#   try:
+#     raw_data_path = os.path.join(data_path,'raw')
+#     os.makedirs(raw_data_path,exist_ok=True)
+#     train_data.to_csv(os.path.join(raw_data_path,'train.csv'),index=False)
+#     test_data.to_csv(os.path.join(raw_data_path,'test.csv'),index=False)
+#     logger.debug('data is successfully saved to %s',raw_data_path)
+#     print("✅ Data ingestion pipeline completed successfully.")
+#   except Exception as e:
+#     logger.debug('unexpected error occured during saving data: %s', e)
+#     raise
 
 
-def main():
+def main(raw_data_path='./data'):
   try:
     test_size = 0.2
     data_path = 'https://raw.githubusercontent.com/KHAJA-MUBASHIR-ARSALAN/end-to-end-mlops/main/experiments/Dataset.csv'
     df = load_data(data_url=data_path)
     final_df = preprocessing(df)
-    train_data, test_data = tts(final_df,test_size=test_size,random_state=42)
-    save_data(train_data,test_data, data_path='./data')
-    logger.debug('data fetch succesfully %s',data_path)
+    x = final_df.drop("Aggregate rating",axis=1)
+    y = final_df['Aggregate rating']
+    train_x, test_x, train_y, test_y = tts(x, y, test_size=test_size, random_state=42)
+
+    print("reset index for row alignement after refresh")
+    train_x = train_x.reset_index(drop=True)
+    train_y = train_y.reset_index(drop=True)
+    test_x = test_x.reset_index(drop=True)
+    test_y = test_y.reset_index(drop=True)
+
+    print("saving tts files into data folder")
+
+    train_x.to_csv(os.path.join(raw_data_path, "train_X.csv"), index=False)
+    train_y.to_csv(os.path.join(raw_data_path, "train_y.csv"), index=False)
+    test_x.to_csv(os.path.join(raw_data_path, "test_X.csv"), index=False)
+    test_y.to_csv(os.path.join(raw_data_path, "test_y.csv"), index=False)
+
+
+    print(f"Saved files to {os.path.abspath(raw_data_path)}")
+    return {
+        "train_X": os.path.join(raw_data_path, "train_X.csv"),
+        "train_y": os.path.join(raw_data_path, "train_y.csv"),
+        "test_X": os.path.join(raw_data_path, "test_X.csv"),
+        "test_y": os.path.join(raw_data_path, "test_y.csv"),
+    }
   except Exception as e:
     logger.debug('failed to complete the data ingestion process: %s',e)
     print(f'error{e}')
