@@ -86,7 +86,7 @@ def preprocessing(df : pd.DataFrame) -> pd.DataFrame:
 #     raise
 
 
-def main(raw_data_path='./data'):
+def main(raw_data_path='./data/raw'):
   try:
     test_size = 0.2
     data_path = 'https://raw.githubusercontent.com/KHAJA-MUBASHIR-ARSALAN/end-to-end-mlops/main/experiments/Dataset.csv'
