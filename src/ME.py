@@ -5,6 +5,8 @@ import joblib
 from sklearn.metrics import mean_squared_error, mean_absolute_error, r2_score
 import json
 import numpy as np
+import yaml
+from dvclive import Live
 
 # ensure the log dir
 
@@ -37,6 +39,27 @@ file_handler.setFormatter(formatter)
 
 logger.addHandler(console_handler)
 logger.addHandler(file_handler)
+
+
+
+# params.yaml loading
+
+def params_load(params_path : str ) ->dict:
+  """loading parameters from yaml file"""
+  try:
+    with open(params_path,'r') as f:
+      params = yaml.safe_load(f)
+    return params
+  except FileNotFoundError as e: 
+    logger.error('file not found %s',e)
+    raise
+  except yaml.YAMLError as e:
+    logger.error('error while parsing yaml file %s',e)
+    raise
+  except Exception as e:
+    logger.error('unexpected error occure while loading the params %s',e)
+    raise
+
 
 
 
@@ -96,10 +119,25 @@ def save_metrics(metrics: dict, file_path: str) -> None:
 def main():
   try:
     logger.debug("model evaluation main() started")
+    params = params_load('params.yaml')
     model =load_model('models/model_pipeline.pkl')
     test_x = pd.read_csv('./data/interm/test_x_processed_data.csv')
     test_y = pd.read_csv('./data/interm/test_y_processed_data.csv').iloc[:,0]
-    metrics = evaluate_model(model,test_x,test_y)
+  
+
+    # Get all metrics from evaluate_model()
+    metrics = evaluate_model(model, test_x, test_y)
+
+        # === Log metrics with dvclive ===
+    with Live(save_dvc_exp=True) as live:
+      live.log_metric('mse',  metrics['mse'])
+      live.log_metric('rmse', metrics['rmse'])
+      live.log_metric('mae',  metrics['mae'])
+      live.log_metric('r2',   metrics['r2'])
+      live.log_params(params)
+      # Optional but good practice: advance step
+      live.next_step()
+
     save_metrics(metrics,'reports/metrics.json')
     logger.debug("model evaluation main() completed successfully")
   except Exception as e: 
@@ -111,4 +149,3 @@ if __name__ == '__main__':
 
 
 
-  
