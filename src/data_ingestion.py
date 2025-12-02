@@ -4,6 +4,10 @@ import os
 from sklearn.model_selection import train_test_split as tts 
 
 
+
+RAW_DIR = os.path.join("data", "raw")
+os.makedirs(RAW_DIR, exist_ok=True)
+
 # ensure the log dir
 
 log_dir = 'logs'
@@ -86,7 +90,7 @@ def preprocessing(df : pd.DataFrame) -> pd.DataFrame:
 #     raise
 
 
-def main(raw_data_path='./data/raw'):
+def main(raw_data_path=RAW_DIR):
   try:
     test_size = 0.2
     data_path = 'https://raw.githubusercontent.com/KHAJA-MUBASHIR-ARSALAN/end-to-end-mlops/main/experiments/Dataset.csv'

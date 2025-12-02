@@ -108,7 +108,7 @@ def build_model(model_class, **prams):
 def train():
   logger.debug('model training started')
   train_x = pd.read_csv('./data/interm/train_x_processed_data.csv')
-  train_y = pd.read_csv('./data/interm/train_y_processed_data.csv')
+  train_y = pd.read_csv('./data/interm/train_y_processed_data.csv').values.ravel()
 
   model = build_model(
         RandomForestRegressor,

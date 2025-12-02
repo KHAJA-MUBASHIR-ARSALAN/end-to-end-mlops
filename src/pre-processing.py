@@ -6,6 +6,10 @@ import numpy as np
 import pandas as pd
 from sklearn.preprocessing import MinMaxScaler
 
+
+INTERM_DIR = os.path.join("data", "interm")
+os.makedirs(INTERM_DIR, exist_ok=True)
+
 # ensure the log dir
 
 log_dir = 'logs'
@@ -98,10 +102,7 @@ def preprocessing(df : pd.DataFrame, cols) -> pd.DataFrame:
 
 def main():
   try:
-    train_data = pd.read_csv('./data/raw/train.csv')
-    test_data = pd.read_csv('./data/raw/test.csv')
-
-
+    logger.debug('preprocessing main() started')
     train_x = pd.read_csv('./data/raw/train_X.csv')
     test_x = pd.read_csv('./data/raw/test_X.csv')
     train_y = pd.read_csv('./data/raw/train_y.csv')
@@ -109,9 +110,7 @@ def main():
     logger.debug('data loaded successfully')
 
     # process
-
-    train_processed_data = preprocessing(train_data,feature_cols)
-    test_processed_data = preprocessing(test_data,feature_cols)
+    
     print("processed whole data")
     train_x_processed_data = preprocessing(train_x,feature_cols)
     test_x_processed_data = preprocessing(test_x,feature_cols)
@@ -120,18 +119,17 @@ def main():
 
 
 
-    data_path = os.path.join("./data","interm")
-    os.makedirs(data_path,exist_ok=True)
+    # data_path = os.path.join("./data","interm")
+    # os.makedirs(data_path,exist_ok=True)
 
-    train_processed_data.to_csv(os.path.join(data_path,"train_processed.csv"),index = False)
-    test_processed_data.to_csv(os.path.join(data_path,"test_processed.csv"),index = False)
 
-    train_x_processed_data.to_csv(os.path.join(data_path,"train_x_processed_data.csv"),index = False)
-    test_x_processed_data.to_csv(os.path.join(data_path,"test_x_processed_data.csv"),index = False)
-    test_y_processed_data.to_csv(os.path.join(data_path,"test_y_processed_data.csv"),index = False)
-    train_y_processed_data.to_csv(os.path.join(data_path,"train_y_processed_data.csv"),index = False)
 
-    logger.debug('data saved successfully: %s',data_path)
+    train_x_processed_data.to_csv(os.path.join(INTERM_DIR,"train_x_processed_data.csv"),index = False)
+    test_x_processed_data.to_csv(os.path.join(INTERM_DIR,"test_x_processed_data.csv"),index = False)
+    test_y_processed_data.to_csv(os.path.join(INTERM_DIR,"test_y_processed_data.csv"),index = False)
+    train_y_processed_data.to_csv(os.path.join(INTERM_DIR,"train_y_processed_data.csv"),index = False)
+
+    logger.debug('data saved successfully: %s',INTERM_DIR)
   except FileNotFoundError as e:
     logger.error('file not found %s',e)
   except pd.errors.EmptyDataError as e:
