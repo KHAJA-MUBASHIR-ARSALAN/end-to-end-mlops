@@ -92,7 +92,7 @@ def main(raw_data_path='./data/raw'):
     data_path = 'https://raw.githubusercontent.com/KHAJA-MUBASHIR-ARSALAN/end-to-end-mlops/main/experiments/Dataset.csv'
     df = load_data(data_url=data_path)
     final_df = preprocessing(df)
-    x = final_df.drop("Aggregate rating",axis=1)
+    x = final_df.drop(["Aggregate rating","Cuisines"],axis=1)
     y = final_df['Aggregate rating']
     train_x, test_x, train_y, test_y = tts(x, y, test_size=test_size, random_state=42)
 
