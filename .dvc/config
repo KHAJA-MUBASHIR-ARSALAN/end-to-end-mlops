@@ -1,0 +1,4 @@
+[core]
+    remote = aggregatestore
+['remote "aggregatestore"']
+    url = s3://dvc-s3-aggregate-bucket
