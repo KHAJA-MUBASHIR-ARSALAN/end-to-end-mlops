@@ -40,23 +40,24 @@ logger.addHandler(file_handler)
 
 
 
-num_cols = ['Average Cost for two','Price range','Aggregate rating']
+
+feature_cols = ['Average Cost for two','Price range']
+target_col = ['Aggregate rating']
 
 
-
-def preprocessing(df : pd.DataFrame, cols = num_cols) -> pd.DataFrame:
+def preprocessing(df : pd.DataFrame, cols) -> pd.DataFrame:
   """preprocessing the data and the columns which are irrelevent deleting it"""
   try:
-    missing = [col for col in num_cols if col not in df.columns]
+    missing = [col for col in cols if col not in df.columns]
     if missing:
       raise KeyError(f"Missing required numeric columns: {missing}")
-    df[num_cols].boxplot(figsize=(10,6))
+    df[cols].boxplot(figsize=(10,6))
     plt.title('numeric features before transformation')
     plt.xticks(rotation=45)
     plt.show()
 
 
-    for col in num_cols:
+    for col in cols:
       lb = df[col].quantile(0.25)
       ub = df[col].quantile(0.75)
       df[col] = np.where(
@@ -71,7 +72,7 @@ def preprocessing(df : pd.DataFrame, cols = num_cols) -> pd.DataFrame:
 
 
 
-    df[num_cols].boxplot(figsize=(10,6))
+    df[cols].boxplot(figsize=(10,6))
     plt.title('numeric features After transformation')
     plt.xticks(rotation=45)
     plt.show()
@@ -79,9 +80,9 @@ def preprocessing(df : pd.DataFrame, cols = num_cols) -> pd.DataFrame:
 
     scaler = MinMaxScaler()
     df_scaled = df.copy()
-    df_scaled[num_cols] = scaler.fit_transform(df[num_cols])
+    df_scaled[cols] = scaler.fit_transform(df[cols])
 
-    df_scaled[num_cols].boxplot(figsize=(10,6))
+    df_scaled[cols].boxplot(figsize=(10,6))
     plt.title('numeric features After transformation')
     plt.xticks(rotation=45)
     plt.show()
@@ -95,22 +96,40 @@ def preprocessing(df : pd.DataFrame, cols = num_cols) -> pd.DataFrame:
     logger.debug('unexpected error is occured')
     raise
 
-def main(cols='num_cols'):
+def main():
   try:
     train_data = pd.read_csv('./data/raw/train.csv')
     test_data = pd.read_csv('./data/raw/test.csv')
+
+
+    train_x = pd.read_csv('./data/raw/train_X.csv')
+    test_x = pd.read_csv('./data/raw/test_X.csv')
+    train_y = pd.read_csv('./data/raw/train_y.csv')
+    test_y = pd.read_csv('./data/raw/test_y.csv')
     logger.debug('data loaded successfully')
 
     # process
 
-    train_processed_data = preprocessing(train_data,cols)
-    test_processed_data = preprocessing(test_data,cols)
+    train_processed_data = preprocessing(train_data,feature_cols)
+    test_processed_data = preprocessing(test_data,feature_cols)
+    print("processed whole data")
+    train_x_processed_data = preprocessing(train_x,feature_cols)
+    test_x_processed_data = preprocessing(test_x,feature_cols)
+    test_y_processed_data = preprocessing(test_y,target_col)
+    train_y_processed_data = preprocessing(train_y,target_col)
+
+
 
     data_path = os.path.join("./data","interm")
     os.makedirs(data_path,exist_ok=True)
 
     train_processed_data.to_csv(os.path.join(data_path,"train_processed.csv"),index = False)
     test_processed_data.to_csv(os.path.join(data_path,"test_processed.csv"),index = False)
+
+    train_x_processed_data.to_csv(os.path.join(data_path,"train_x_processed_data.csv"),index = False)
+    test_x_processed_data.to_csv(os.path.join(data_path,"test_x_processed_data.csv"),index = False)
+    test_y_processed_data.to_csv(os.path.join(data_path,"test_y_processed_data.csv"),index = False)
+    train_y_processed_data.to_csv(os.path.join(data_path,"train_y_processed_data.csv"),index = False)
 
     logger.debug('data saved successfully: %s',data_path)
   except FileNotFoundError as e:

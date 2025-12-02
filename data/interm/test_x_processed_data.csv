@@ -1,0 +1,1912 @@
+City,Cuisines,Average Cost for two,Currency,Has Table booking,Has Online delivery,Is delivering now,Switch to order menu,Price range,Rating color,Rating text
+New Delhi,North Indian,0.2222222222222222,Indian Rupees(Rs.),No,No,No,No,0.0,Red,Poor
+Gurgaon,"Mughlai, Hyderabadi",1.0,Indian Rupees(Rs.),No,Yes,No,No,1.0,Green,Very Good
+Noida,"North Indian, Mughlai",0.6666666666666667,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+New Delhi,Fast Food,0.0,Indian Rupees(Rs.),No,Yes,No,No,0.0,Green,Very Good
+New Delhi,"North Indian, Mughlai",0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,Yellow,Good
+New Delhi,"Beverages, Fast Food",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"Bakery, Fast Food",0.33333333333333326,Indian Rupees(Rs.),No,Yes,No,No,0.0,Orange,Average
+Gurgaon,"Street Food, Mithai",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Noida,"North Indian, Chinese, Mughlai",0.33333333333333326,Indian Rupees(Rs.),No,Yes,No,No,0.0,Yellow,Good
+Gurgaon,Asian,1.0,Indian Rupees(Rs.),No,Yes,No,No,1.0,Green,Very Good
+Gurgaon,"Chinese, Thai, Asian",0.33333333333333326,Indian Rupees(Rs.),No,Yes,No,No,0.0,Yellow,Good
+New Delhi,North Indian,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Gurgaon,"Fast Food, North Indian",0.5555555555555556,Indian Rupees(Rs.),No,Yes,No,No,1.0,Green,Very Good
+Noida,Desserts,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,North Indian,0.8888888888888888,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+Gurgaon,"North Indian, Chinese",0.7777777777777777,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+Mumbai,"Cafe, Italian, Desserts, Fast Food, Chinese, Tea",1.0,Indian Rupees(Rs.),Yes,Yes,No,No,1.0,Green,Very Good
+New Delhi,"North Indian, Chinese, Continental, Fast Food",0.4444444444444444,Indian Rupees(Rs.),No,Yes,No,No,0.0,Yellow,Good
+Faridabad,"North Indian, Chinese",0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Faridabad,"Chinese, North Indian",0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Faridabad,"Mithai, North Indian, South Indian, Chinese, Fast Food",0.33333333333333326,Indian Rupees(Rs.),No,Yes,No,No,0.0,Orange,Average
+Noida,"Chinese, Asian, Thai",0.8888888888888888,Indian Rupees(Rs.),No,Yes,No,No,1.0,Yellow,Good
+New Delhi,"Hyderabadi, Biryani, North Indian",0.8888888888888888,Indian Rupees(Rs.),No,Yes,No,No,1.0,Green,Very Good
+New Delhi,Bakery,0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+Kochi,"Kerala, South Indian, Continental, North Indian, Seafood, Chinese",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Green,Very Good
+New Delhi,"Bakery, Fast Food",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"North Indian, Mughlai, Chinese",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+Gurgaon,Mithai,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"Mughlai, North Indian",0.7777777777777777,Indian Rupees(Rs.),No,Yes,No,No,1.0,Yellow,Good
+New Delhi,North Indian,0.7777777777777777,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+New Delhi,"Chinese, Cafe",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+New Delhi,"Raw Meats, North Indian, Fast Food",0.2222222222222222,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"European, Sushi, Italian",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Orange,Average
+Noida,"Chinese, North Indian, South Indian",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"South Indian, North Indian, Chinese",1.0,Indian Rupees(Rs.),Yes,Yes,No,No,1.0,Orange,Average
+Lorn,"Breakfast, Coffee and Tea",0.0,Dollar($),No,No,No,No,1.0,Yellow,Good
+Des Moines,"BBQ, Caribbean, Cajun",0.0,Dollar($),No,No,No,No,1.0,Dark Green,Excellent
+Gurgaon,"North Indian, Continental",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Orange,Average
+Noida,"North Indian, Mughlai",0.7777777777777777,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+Doha,"Steak, American",0.0,Qatari Rial(QR),No,No,No,No,1.0,Green,Very Good
+Noida,Ice Cream,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,North Indian,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Gurgaon,"Mithai, Street Food",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"Mughlai, North Indian",0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Noida,"Juices, Fast Food",0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Gurgaon,"Bakery, Fast Food",0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,Chinese,0.7777777777777777,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+New Delhi,"Lucknowi, Biryani",0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"Fast Food, North Indian",0.2222222222222222,Indian Rupees(Rs.),No,Yes,No,No,0.0,Orange,Average
+Noida,Street Food,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Kolkata,"Biryani, North Indian, Chinese, Mughlai",1.0,Indian Rupees(Rs.),Yes,Yes,No,No,1.0,Dark Green,Excellent
+New Delhi,"Continental, Italian, North Indian, Lebanese",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+New Delhi,"North Indian, Mughlai, Chinese",0.4444444444444444,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Noida,Healthy Food,0.7777777777777777,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+Gurgaon,North Indian,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Gurgaon,"North Indian, Chinese, South Indian",0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Yorkton,Asian,0.0,Dollar($),No,No,No,No,1.0,Orange,Average
+Faridabad,"Chinese, Fast Food",0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,North Indian,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Yellow,Good
+New Delhi,"North Indian, Mediterranean, Asian",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Yellow,Good
+New Delhi,North Indian,0.6666666666666667,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+Ranchi,"North Indian, South Indian, Chinese",0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+Faridabad,"Fast Food, Bakery",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Yellow,Good
+New Delhi,"Bakery, Desserts",0.33333333333333326,Indian Rupees(Rs.),No,Yes,No,No,0.0,Yellow,Good
+New Delhi,"North Indian, Mughlai",0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+New Delhi,Cafe,1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+Noida,Cafe,0.33333333333333326,Indian Rupees(Rs.),No,Yes,No,No,0.0,Yellow,Good
+Gurgaon,"Bakery, Desserts",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"Mithai, Fast Food",0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"Chinese, North Indian",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Noida,Fast Food,0.5555555555555556,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+Noida,"North Indian, Chinese, Mughlai, Fast Food",0.6666666666666667,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+New Delhi,"Tibetan, Chinese",0.5555555555555556,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+New Delhi,"Chinese, Fast Food",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,North Indian,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Noida,"Lebanese, Mediterranean, Middle Eastern, Arabian",1.0,Indian Rupees(Rs.),Yes,Yes,No,No,1.0,Yellow,Good
+New Delhi,South Indian,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Nagpur,"North Indian, Chinese",0.5555555555555556,Indian Rupees(Rs.),No,Yes,No,No,1.0,Green,Very Good
+New Delhi,Beverages,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Yellow,Good
+Birmingham,"British, Cafe",0.0,Pounds(��),No,No,No,No,1.0,Yellow,Good
+New Delhi,"Mughlai, North Indian",0.7777777777777777,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+Gurgaon,"Pizza, Fast Food",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Red,Poor
+Noida,"North Indian, Chinese",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Yellow,Good
+Mandaluyong City,"Japanese, Sushi",1.0,Botswana Pula(P),No,No,No,No,1.0,Dark Green,Excellent
+Gurgaon,"Beverages, Fast Food",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"Pizza, Fast Food",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Yellow,Good
+New Delhi,"Ice Cream, Desserts",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Yellow,Good
+New Delhi,North Indian,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"North Indian, Mughlai, Biryani",0.5555555555555556,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+Vizag,"Burger, Pizza, Biryani",0.7777777777777777,Indian Rupees(Rs.),No,No,No,No,1.0,Green,Very Good
+Noida,"North Indian, South Indian, Chinese, Fast Food",0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"Mughlai, North Indian",0.7777777777777777,Indian Rupees(Rs.),No,No,No,No,1.0,White,Not rated
+Gurgaon,"North Indian, Mughlai",1.0,Indian Rupees(Rs.),Yes,Yes,No,No,1.0,Orange,Average
+New Delhi,Biryani,0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Bhubaneshwar,"North Indian, Rajasthani",0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,Green,Very Good
+New Delhi,"French, Italian",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Yellow,Good
+New Delhi,"Raw Meats, North Indian, Fast Food",0.2222222222222222,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,Bakery,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+��stanbul,"Desserts, B�_rek",0.0,Turkish Lira(TL),No,No,No,No,1.0,Dark Green,Excellent
+New Delhi,North Indian,0.7777777777777777,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+New Delhi,"North Indian, South Indian, Chinese, Street Food, Fast Food",0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,Mithai,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Red,Poor
+Gurgaon,"Bihari, Lucknowi, North Indian",1.0,Indian Rupees(Rs.),Yes,Yes,No,No,1.0,Green,Very Good
+New Delhi,Finger Food,0.7777777777777777,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+New Delhi,North Indian,0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,Fast Food,0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,Yellow,Good
+New Delhi,"North Indian, Chinese",0.8888888888888888,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+New Delhi,Cafe,1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Green,Very Good
+Noida,Chinese,0.7777777777777777,Indian Rupees(Rs.),No,Yes,No,No,1.0,Yellow,Good
+Gurgaon,"Juices, Beverages, Healthy Food",1.0,Indian Rupees(Rs.),No,Yes,No,No,1.0,Green,Very Good
+New Delhi,"Fast Food, South Indian",0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,Green,Very Good
+New Delhi,North Indian,0.2222222222222222,Indian Rupees(Rs.),No,Yes,No,No,0.0,Orange,Average
+New Delhi,Cafe,1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+New Delhi,"Pizza, Fast Food",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,White,Not rated
+Noida,North Indian,0.33333333333333326,Indian Rupees(Rs.),No,Yes,No,No,0.0,Yellow,Good
+Goa,"Continental, North Indian, Italian, Seafood, Goan",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Yellow,Good
+Gurgaon,"Japanese, Chinese, Asian, Malaysian, Thai, Vietnamese",1.0,Indian Rupees(Rs.),No,Yes,No,No,1.0,Yellow,Good
+Gurgaon,"Mediterranean, Mughlai, Thai, North Indian, Chinese",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Yellow,Good
+Gurgaon,"Asian, Burmese",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Dark Green,Excellent
+New Delhi,North Indian,0.2222222222222222,Indian Rupees(Rs.),No,Yes,No,No,0.0,Orange,Average
+New Delhi,Cafe,0.2222222222222222,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"Cafe, Desserts, Bakery",0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,Yellow,Good
+New Delhi,Chinese,0.7777777777777777,Indian Rupees(Rs.),No,Yes,No,No,1.0,Red,Poor
+Patna,"North Indian, Fast Food",0.7777777777777777,Indian Rupees(Rs.),No,No,No,No,1.0,Yellow,Good
+Gurgaon,"North Indian, Chinese",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"North Indian, Chinese, Continental",1.0,Indian Rupees(Rs.),Yes,Yes,No,No,1.0,Orange,Average
+New Delhi,"Italian, Continental, European, Cafe",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Dark Green,Excellent
+New Delhi,"North Indian, Mughlai, Chinese",0.7777777777777777,Indian Rupees(Rs.),Yes,Yes,No,No,1.0,Green,Very Good
+New Delhi,Mughlai,0.2222222222222222,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"Street Food, North Indian, South Indian, Mithai",0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,North Indian,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Mangalore,"South Indian, North Indian, Chinese",0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,Yellow,Good
+New Delhi,"Continental, North Indian",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Yellow,Good
+New Delhi,"Chinese, Thai, Asian, Malaysian, Vietnamese, Japanese",1.0,Indian Rupees(Rs.),No,Yes,No,No,1.0,Green,Very Good
+New Delhi,"North Indian, Biryani, Chinese, Fast Food",1.0,Indian Rupees(Rs.),No,Yes,Yes,No,1.0,Yellow,Good
+New Delhi,North Indian,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Noida,North Indian,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,Ice Cream,0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"North Indian, Mughlai",0.6666666666666667,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+New Delhi,"Finger Food, North Indian, Italian",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Yellow,Good
+New Delhi,"Kashmiri, Chinese, Mughlai",1.0,Indian Rupees(Rs.),Yes,Yes,No,No,1.0,Orange,Average
+New Delhi,Street Food,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"Fast Food, Street Food, Chinese",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,Bakery,0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Faridabad,"North Indian, Mughlai, Chinese",0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+Gurgaon,Cafe,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Yellow,Good
+Makati City,"French, Japanese, Desserts",1.0,Botswana Pula(P),Yes,No,No,No,1.0,Dark Green,Excellent
+New Delhi,"Bakery, Desserts",0.6666666666666667,Indian Rupees(Rs.),No,Yes,No,No,1.0,Green,Very Good
+Sioux City,"American, Fast Food",0.0,Dollar($),No,No,No,No,0.0,Yellow,Good
+New Delhi,Desserts,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,North Indian,0.4444444444444444,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Gurgaon,Continental,1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+New Delhi,"North Indian, Mughlai, Biryani, Bengali",0.8888888888888888,Indian Rupees(Rs.),No,Yes,No,No,1.0,Yellow,Good
+New Delhi,Street Food,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"Cafe, Continental, Italian, Mexican",1.0,Indian Rupees(Rs.),Yes,Yes,No,No,1.0,Green,Very Good
+Noida,"North Indian, South Indian, Fast Food",0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,North Indian,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Noida,North Indian,0.2222222222222222,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Noida,"Biryani, North Indian, Hyderabadi",1.0,Indian Rupees(Rs.),Yes,Yes,No,No,1.0,Yellow,Good
+New Delhi,"Desserts, Ice Cream",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Green,Very Good
+New Delhi,"Raw Meats, Fast Food",0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"American, Fast Food, Salad, Healthy Food",0.5555555555555556,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+Gurgaon,"Mexican, Lebanese, Italian, Continental, Thai",0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+Nagpur,"Chinese, Continental, North Indian",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Green,Very Good
+Mangalore,"Continental, American",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Yellow,Good
+Gurgaon,North Indian,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,North Indian,0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Noida,"Bakery, Fast Food, Desserts",0.0,Indian Rupees(Rs.),No,Yes,No,No,0.0,Orange,Average
+Orlando,"American, Breakfast, Vegetarian",0.0,Dollar($),No,No,No,No,1.0,Green,Very Good
+New Delhi,"North Indian, Fast Food",0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"Hyderabadi, North Indian",0.6666666666666667,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+Gurgaon,"North Indian, Continental, Chinese",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Orange,Average
+New Delhi,"North Indian, Chinese, Fast Food",0.8888888888888888,Indian Rupees(Rs.),No,No,No,No,1.0,White,Not rated
+New Delhi,North Indian,0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+New Delhi,"Mughlai, North Indian, Chinese",1.0,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+New Delhi,"North Indian, South Indian",0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"Mithai, Street Food",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,Ice Cream,0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,Yellow,Good
+Noida,"North Indian, Mughlai, Chinese",0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,White,Not rated
+Mumbai,"North Indian, Italian, Chinese, Mexican",1.0,Indian Rupees(Rs.),Yes,Yes,No,No,1.0,Dark Green,Excellent
+Noida,Cafe,0.4444444444444444,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Kolkata,"Continental, North Indian",1.0,Indian Rupees(Rs.),No,Yes,No,No,1.0,Green,Very Good
+New Delhi,"Beverages, Ice Cream",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,Chinese,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,Fast Food,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Noida,Mughlai,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Noida,"North Indian, Chinese",0.33333333333333326,Indian Rupees(Rs.),No,Yes,No,No,0.0,Orange,Average
+San Juan City,Korean,1.0,Botswana Pula(P),No,No,No,No,1.0,Green,Very Good
+New Delhi,Cafe,0.2222222222222222,Indian Rupees(Rs.),No,Yes,No,No,0.0,Green,Very Good
+Gurgaon,"Mughlai, Biryani",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"Fast Food, Bakery",0.2222222222222222,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Noida,North Indian,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,Street Food,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"Biryani, Hyderabadi",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Yellow,Good
+New Delhi,"North Indian, Chinese, Fast Food",0.4444444444444444,Indian Rupees(Rs.),No,Yes,No,No,0.0,Orange,Average
+Faridabad,Bakery,0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"North Indian, Biryani",0.7777777777777777,Indian Rupees(Rs.),No,Yes,No,No,1.0,Yellow,Good
+New Delhi,"Italian, French",1.0,Indian Rupees(Rs.),Yes,Yes,No,No,1.0,Green,Very Good
+New Delhi,"Chinese, Fast Food",0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"South Indian, Fast Food, North Indian, Chinese",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,North Indian,0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"Continental, North Indian, Italian, Asian",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Yellow,Good
+Faridabad,"Pizza, Fast Food",0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Colombo,"Seafood, Italian",1.0,Sri Lankan Rupee(LKR),No,No,No,No,1.0,Green,Very Good
+New Delhi,Street Food,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"North Indian, Italian, Mexican, Chettinad, Chinese, Lebanese",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Yellow,Good
+New Delhi,Biryani,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"Fast Food, Burger",0.2222222222222222,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Cape Town,"Burger, Fast Food, Grill",0.0,Rand(R),No,No,No,No,1.0,Yellow,Good
+Augusta,"Desserts, Italian, Pizza",0.0,Dollar($),No,No,No,No,1.0,Green,Very Good
+New Delhi,"Fast Food, Street Food",0.11111111111111105,Indian Rupees(Rs.),No,Yes,No,No,0.0,Yellow,Good
+New Delhi,Fast Food,0.5555555555555556,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+Athens,"Japanese, Korean",0.0,Dollar($),No,No,No,No,0.0,Yellow,Good
+Hyderabad,"Seafood, Continental, Goan, Asian, Andhra",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Yellow,Good
+Wellington City,"French, Kiwi",0.0,NewZealand($),No,No,No,No,1.0,Green,Very Good
+New Delhi,"North Indian, Chinese, South Indian",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+Bras�_lia,Japanese,0.0,Brazilian Real(R$),No,No,No,No,1.0,Yellow,Good
+New Delhi,"Chinese, Thai",0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,Yellow,Good
+New Delhi,Fast Food,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Savannah,"Breakfast, Cajun",0.0,Dollar($),No,No,No,No,1.0,Green,Very Good
+New Delhi,"North Indian, Mughlai",0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,North Indian,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Faridabad,Mithai,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Noida,"Mithai, Street Food",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"North Indian, Mughlai",0.6666666666666667,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+Gurgaon,"North Indian, Chinese",0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+S��o Paulo,"Brazilian, Bar Food, Beverages",0.0,Brazilian Real(R$),No,No,No,No,1.0,Dark Green,Excellent
+Gurgaon,"European, Italian",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Yellow,Good
+New Delhi,"Desserts, Beverages",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Yellow,Good
+New Delhi,"Pizza, Fast Food",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+Bras�_lia,"Peruvian, Latin American",0.0,Brazilian Real(R$),No,No,No,No,1.0,Yellow,Good
+Dubai,Indian,0.0,Emirati Diram(AED),Yes,Yes,No,No,1.0,Green,Very Good
+New Delhi,Chinese,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Noida,"North Indian, South Indian, Chinese, Street Food, Fast Food, Mithai, Desserts",0.7777777777777777,Indian Rupees(Rs.),No,No,No,No,1.0,Yellow,Good
+Varanasi,South Indian,0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,1.0,Yellow,Good
+Miller,,0.0,Dollar($),No,No,No,No,0.0,Orange,Average
+New Delhi,Street Food,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Yellow,Good
+New Delhi,Cafe,0.7777777777777777,Indian Rupees(Rs.),No,No,No,No,1.0,Yellow,Good
+Gurgaon,North Indian,0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Gurgaon,Japanese,1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Orange,Average
+Rest of Hawaii,Seafood,0.0,Dollar($),No,No,No,No,1.0,Dark Green,Excellent
+New Delhi,North Indian,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"South Indian, Chinese, Fast Food, Mithai",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,Beverages,0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,Yellow,Good
+New Delhi,"Street Food, Mithai",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Gurgaon,"Lebanese, Mediterranean, Middle Eastern, Arabian",1.0,Indian Rupees(Rs.),Yes,Yes,No,No,1.0,Yellow,Good
+New Delhi,North Indian,0.8888888888888888,Indian Rupees(Rs.),No,No,No,No,1.0,White,Not rated
+Gurgaon,"Chinese, Fast Food",0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"North Indian, Chinese, Fast Food",0.7777777777777777,Indian Rupees(Rs.),No,Yes,No,No,1.0,Red,Poor
+New Delhi,"Desserts, Street Food",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Kolkata,"Cafe, Chinese, Continental",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Green,Very Good
+New Delhi,"Cafe, Desserts, Healthy Food, Juices",0.8888888888888888,Indian Rupees(Rs.),No,Yes,No,No,1.0,Yellow,Good
+New Delhi,"North Indian, European",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Orange,Average
+New Delhi,"North Indian, Indian",0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,North Indian,0.4444444444444444,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Gurgaon,"Beverages, Salad, Beverages",0.33333333333333326,Indian Rupees(Rs.),No,Yes,No,No,0.0,Green,Very Good
+Noida,Fast Food,0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,Yellow,Good
+New Delhi,"Pizza, Fast Food",0.8888888888888888,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+New Delhi,"North Indian, Italian",1.0,Indian Rupees(Rs.),No,Yes,No,No,1.0,Yellow,Good
+New Delhi,"Cafe, Chinese, Continental, Italian, Desserts, Beverages",0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"North Indian, Mughlai",0.7777777777777777,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+New Delhi,"North Indian, Fast Food",0.6666666666666667,Indian Rupees(Rs.),No,No,No,No,1.0,White,Not rated
+New Delhi,Street Food,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Yellow,Good
+Gurgaon,"Healthy Food, Beverages",0.7777777777777777,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+Abu Dhabi,Chinese,0.0,Emirati Diram(AED),No,No,No,No,1.0,Green,Very Good
+Gurgaon,Continental,1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Green,Very Good
+New Delhi,North Indian,0.2222222222222222,Indian Rupees(Rs.),No,Yes,No,No,0.0,Orange,Average
+New Delhi,"Italian, Continental",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Orange,Average
+Gurgaon,"Mughlai, Chinese",0.7777777777777777,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+Gurgaon,"North Indian, Chinese",0.7777777777777777,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+New Delhi,Hyderabadi,0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"Mithai, Street Food",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Noida,Bakery,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"Mithai, South Indian, Street Food",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Yellow,Good
+Gurgaon,Bakery,0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+New Delhi,Ice Cream,0.11111111111111105,Indian Rupees(Rs.),No,Yes,No,No,0.0,Orange,Average
+Gurgaon,"American, Fast Food, Burger",0.5555555555555556,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+New Delhi,Bakery,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"Chinese, Mughlai, North Indian",0.5555555555555556,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+Noida,North Indian,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"North Indian, Continental, Asian, Chinese, Thai",1.0,Indian Rupees(Rs.),Yes,Yes,No,No,1.0,Yellow,Good
+New Delhi,"North Indian, Mughlai, Fast Food, South Indian",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"Bakery, Fast Food",0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,Cafe,1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+New Delhi,North Indian,0.8888888888888888,Indian Rupees(Rs.),No,No,No,No,1.0,White,Not rated
+Noida,"Biryani, Hyderabadi",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Yellow,Good
+New Delhi,South Indian,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"North Indian, South Indian, Chinese, Fast Food",0.5555555555555556,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+Noida,"Chinese, Thai",1.0,Indian Rupees(Rs.),No,Yes,No,No,1.0,Yellow,Good
+New Delhi,"Continental, North Indian, Chinese",1.0,Indian Rupees(Rs.),Yes,Yes,No,No,1.0,Orange,Average
+Noida,"Chinese, North Indian, Mughlai",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,White,Not rated
+New Delhi,"Continental, Chinese, Thai, Mediterranean",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Orange,Average
+New Delhi,"North Indian, Fast Food",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Faridabad,"North Indian, Chinese, Continental",0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+Gurgaon,"Raw Meats, Fast Food",0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"Fast Food, Burger",0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,Yellow,Good
+New Delhi,"Chinese, Continental, North Indian",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,Cafe,0.7777777777777777,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+Vadodara,Cafe,1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Green,Very Good
+Gurgaon,Italian,1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+New Delhi,Chinese,0.2222222222222222,Indian Rupees(Rs.),No,Yes,No,No,0.0,Orange,Average
+New Delhi,"South Indian, North Indian, Chinese",0.2222222222222222,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Gurgaon,"Cafe, Bakery, Desserts",0.5555555555555556,Indian Rupees(Rs.),No,Yes,No,No,1.0,Yellow,Good
+New Delhi,Chinese,0.33333333333333326,Indian Rupees(Rs.),No,Yes,No,No,0.0,White,Not rated
+New Delhi,"Bakery, Desserts",0.7777777777777777,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+New Delhi,"Bakery, Fast Food",0.11111111111111105,Indian Rupees(Rs.),No,Yes,No,No,0.0,Yellow,Good
+Gurgaon,"Bakery, Cafe",0.7777777777777777,Indian Rupees(Rs.),No,Yes,No,No,1.0,Yellow,Good
+New Delhi,"North Indian, Chinese, Continental, Italian, Mexican, Lebanese",1.0,Indian Rupees(Rs.),No,Yes,No,No,1.0,Yellow,Good
+New Delhi,"Continental, Chinese, North Indian",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Yellow,Good
+Varanasi,"Chinese, North Indian",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Yellow,Good
+Noida,"North Indian, Mughlai, Chinese, Fast Food",1.0,Indian Rupees(Rs.),No,Yes,No,No,1.0,Red,Poor
+Faridabad,"North Indian, South Indian, Chinese, Fast Food",0.5555555555555556,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+New Delhi,"North Indian, Fast Food, Chinese",0.5555555555555556,Indian Rupees(Rs.),No,Yes,No,No,1.0,Yellow,Good
+Gurgaon,"Bakery, Desserts",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,North Indian,0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Gurgaon,Desserts,0.0,Indian Rupees(Rs.),No,Yes,No,No,0.0,Orange,Average
+Indore,"Cafe, Continental, Italian, Street Food",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Green,Very Good
+Noida,North Indian,0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,White,Not rated
+New Delhi,"North Indian, South Indian, Chinese",0.7777777777777777,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+New Delhi,North Indian,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"Fast Food, Beverages",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"Mithai, Bakery, North Indian",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"Finger Food, North Indian, Italian",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Orange,Average
+New Delhi,Mughlai,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,Fast Food,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Patna,Fast Food,0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+New Delhi,"North Indian, Biryani",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Gurgaon,"Mughlai, Biryani",0.7777777777777777,Indian Rupees(Rs.),No,Yes,No,No,1.0,Yellow,Good
+Noida,"North Indian, Mughlai, Chinese",0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+New Delhi,North Indian,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Allahabad,"South Indian, North Indian, Chinese, Continental",0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,1.0,Yellow,Good
+New Delhi,North Indian,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"Bakery, Desserts, Fast Food",0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,Yellow,Good
+Sharjah,Cafe,0.0,Emirati Diram(AED),No,No,No,No,1.0,Green,Very Good
+Gurgaon,"North Indian, Mithai, Chinese, Street Food",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Yellow,Good
+Des Moines,"American, BBQ",0.0,Dollar($),No,No,No,No,1.0,Green,Very Good
+Goa,"Seafood, French",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Dark Green,Excellent
+New Delhi,"North Indian, Street Food, Chinese, South Indian, Mithai",0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,Yellow,Good
+Chandigarh,"Mexican, American, Italian",1.0,Indian Rupees(Rs.),No,Yes,No,No,1.0,Green,Very Good
+New Delhi,North Indian,0.2222222222222222,Indian Rupees(Rs.),No,Yes,No,No,0.0,Orange,Average
+New Delhi,"North Indian, Continental, Asian, Italian",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Yellow,Good
+New Delhi,North Indian,0.7777777777777777,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+Mangalore,"Finger Food, Continental, North Indian",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Yellow,Good
+New Delhi,"Fast Food, Beverages",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Noida,Fast Food,0.33333333333333326,Indian Rupees(Rs.),No,Yes,No,No,0.0,Yellow,Good
+Valdosta,Bar Food,0.0,Dollar($),No,No,No,No,1.0,Orange,Average
+New Delhi,"North Indian, Mughlai",1.0,Indian Rupees(Rs.),No,Yes,No,No,1.0,Green,Very Good
+New Delhi,Chinese,1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Orange,Average
+New Delhi,North Indian,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"Burger, Fast Food",0.5555555555555556,Indian Rupees(Rs.),No,Yes,No,No,1.0,Yellow,Good
+Gurgaon,"Italian, Pizza, Fast Food",1.0,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+Noida,"Bakery, Desserts",0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,White,Not rated
+Cedar Rapids/Iowa City,"American, BBQ, Burger",0.0,Dollar($),No,No,No,No,1.0,Green,Very Good
+Des Moines,Latin American,0.0,Dollar($),No,No,No,No,1.0,Green,Very Good
+New Delhi,North Indian,0.11111111111111105,Indian Rupees(Rs.),No,Yes,No,No,0.0,Red,Poor
+Abu Dhabi,"Turkish, Arabian, Middle Eastern",0.0,Emirati Diram(AED),No,No,No,No,1.0,Green,Very Good
+New Delhi,"Cafe, Italian, Chinese",1.0,Indian Rupees(Rs.),No,Yes,No,No,1.0,Yellow,Good
+Bhopal,Fast Food,0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,Green,Very Good
+Hepburn Springs,"Italian, Fusion, Cafe",0.0,Dollar($),No,No,No,No,0.0,Yellow,Good
+Gurgaon,"South Indian, North Indian, Chinese",0.7777777777777777,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+Puducherry,Cafe,1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Yellow,Good
+Noida,"North Indian, Chinese, Mughlai",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Orange,Average
+Davenport,Mexican,0.0,Dollar($),No,No,No,No,1.0,Green,Very Good
+Bangalore,"Finger Food, North Indian, Italian, Continental, Thai, South Indian",1.0,Indian Rupees(Rs.),Yes,Yes,No,No,1.0,Dark Green,Excellent
+New Delhi,Ice Cream,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"Fast Food, Chinese",0.2222222222222222,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,Pizza,0.7777777777777777,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+Rio de Janeiro,"Brazilian, Bar Food",0.0,Brazilian Real(R$),No,No,No,No,1.0,Dark Green,Excellent
+Noida,Beverages,0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"Fast Food, Chinese",0.2222222222222222,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"Bakery, Desserts",0.7777777777777777,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+New Delhi,Fast Food,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Gurgaon,"North Indian, Mughlai",1.0,Indian Rupees(Rs.),No,Yes,No,No,1.0,Yellow,Good
+Orlando,American,0.0,Dollar($),No,No,No,No,1.0,Green,Very Good
+Gurgaon,South American,1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Yellow,Good
+New Delhi,North Indian,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Noida,"North Indian, Seafood, Bengali",0.7777777777777777,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+New Delhi,"Fast Food, Bakery",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"North Indian, South Indian",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"Pizza, Italian",1.0,Indian Rupees(Rs.),No,Yes,No,No,1.0,Yellow,Good
+New Delhi,"Street Food, Bakery",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Noida,"Bakery, Desserts",0.0,Indian Rupees(Rs.),No,Yes,No,No,0.0,Orange,Average
+Noida,"North Indian, Mughlai, Biryani",0.5555555555555556,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+Gurgaon,"Cafe, Bakery",0.7777777777777777,Indian Rupees(Rs.),No,Yes,No,No,1.0,Yellow,Good
+New Delhi,"North Indian, Chinese, Continental",0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,White,Not rated
+Gurgaon,Beverages,0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,Yellow,Good
+Ankara,"World Cuisine, Mexican, Italian",0.0,Turkish Lira(TL),No,No,No,No,1.0,Green,Very Good
+New Delhi,"Fast Food, Italian",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"North Indian, Chinese",0.4444444444444444,Indian Rupees(Rs.),No,Yes,No,No,0.0,Orange,Average
+Mysore,Finger Food,1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Yellow,Good
+Noida,"Chinese, Thai",1.0,Indian Rupees(Rs.),No,Yes,No,No,1.0,Yellow,Good
+Agra,"North Indian, Mughlai",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Yellow,Good
+New Delhi,"Italian, Pizza, Fast Food",1.0,Indian Rupees(Rs.),No,Yes,No,No,1.0,Yellow,Good
+New Delhi,"North Indian, Fast Food",0.7777777777777777,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+Edinburgh,"Pizza, Italian",0.0,Pounds(��),No,No,No,No,1.0,Yellow,Good
+Noida,Fast Food,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,Mughlai,0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"Chinese, North Indian, Fast Food, Italian",1.0,Indian Rupees(Rs.),No,Yes,No,No,1.0,Yellow,Good
+New Delhi,Fast Food,0.2222222222222222,Indian Rupees(Rs.),No,Yes,No,No,0.0,Yellow,Good
+New Delhi,"North Indian, Mughlai, Chinese",0.7777777777777777,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+Noida,"Lucknowi, Mughlai, North Indian",0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,White,Not rated
+New Delhi,"Chinese, South Indian, Fast Food",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"Cafe, Fast Food, North Indian",0.5555555555555556,Indian Rupees(Rs.),No,Yes,No,No,1.0,Yellow,Good
+New Delhi,"North Indian, Chinese, Mughlai",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Yellow,Good
+Gurgaon,Bakery,1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+Gurgaon,Chinese,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Rio de Janeiro,Burger,0.0,Brazilian Real(R$),No,No,No,No,1.0,Dark Green,Excellent
+Waterloo,Desserts,0.0,Dollar($),No,No,No,No,0.0,Yellow,Good
+Dehradun,"Cafe, Chinese",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Yellow,Good
+Lakes Entrance,"Breakfast, Coffee and Tea",0.0,Dollar($),No,No,No,No,0.0,Yellow,Good
+New Delhi,"Street Food, Beverages",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Yellow,Good
+Noida,"North Indian, Mughlai, Chinese",0.5555555555555556,Indian Rupees(Rs.),No,Yes,No,No,1.0,Yellow,Good
+Gurgaon,North Indian,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Gurgaon,"North Indian, South Indian, Chinese",0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,White,Not rated
+Allahabad,"North Indian, Chinese",0.7777777777777777,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+Noida,North Indian,0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"Mediterranean, Continental, Italian",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Yellow,Good
+New Delhi,"North Indian, Fast Food",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+New Delhi,"North Indian, Chinese",0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+Gurgaon,North Indian,0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,North Indian,0.4444444444444444,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,Bakery,0.0,Indian Rupees(Rs.),No,Yes,No,No,0.0,Yellow,Good
+New Delhi,"Chinese, Thai, North Indian",1.0,Indian Rupees(Rs.),Yes,Yes,No,No,1.0,Yellow,Good
+New Delhi,Bakery,0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Agra,"Cafe, North Indian, Chinese",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Dark Green,Excellent
+New Delhi,"Gujarati, South Indian, North Indian",0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,Yellow,Good
+New Delhi,"Raw Meats, Street Food",0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Noida,"Fast Food, Burger",0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+New Delhi,Cafe,1.0,Indian Rupees(Rs.),No,Yes,No,No,1.0,Yellow,Good
+New Delhi,"Chinese, Mughlai, North Indian",0.5555555555555556,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+New Delhi,"Italian, Continental, North Indian",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Yellow,Good
+New Delhi,"Healthy Food, Continental",0.33333333333333326,Indian Rupees(Rs.),No,Yes,No,No,0.0,Yellow,Good
+Ludhiana,"North Indian, Chinese",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Green,Very Good
+New Delhi,Chinese,0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Noida,"North Indian, Mughlai",1.0,Indian Rupees(Rs.),Yes,Yes,No,No,1.0,Red,Poor
+Noida,"North Indian, Chinese",0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"North Indian, Chinese",1.0,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+New Delhi,"North Indian, Chinese",1.0,Indian Rupees(Rs.),Yes,Yes,No,No,1.0,Yellow,Good
+Noida,Fast Food,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Noida,Bakery,1.0,Indian Rupees(Rs.),No,No,No,No,1.0,White,Not rated
+Athens,Bar Food,0.0,Dollar($),No,No,No,No,0.0,Green,Very Good
+New Delhi,North Indian,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Noida,"North Indian, Healthy Food, Rajasthani",0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,North Indian,0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Vizag,"North Indian, Biryani",0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,Yellow,Good
+Singapore,"American, Steak",0.0444444444444444,Dollar($),No,No,No,No,1.0,Green,Very Good
+New Delhi,"South Indian, Biryani",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"North Indian, Continental, Italian",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Orange,Average
+Noida,"Pizza, North Indian",0.0,Indian Rupees(Rs.),No,Yes,No,No,0.0,Yellow,Good
+New Delhi,Cafe,0.4444444444444444,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"Bakery, Desserts",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"Chinese, Fast Food",0.11111111111111105,Indian Rupees(Rs.),No,Yes,No,No,0.0,Yellow,Good
+Gurgaon,"North Indian, Chinese, Fast Food",0.7777777777777777,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+New Delhi,Bakery,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Albany,Fast Food,0.0,Dollar($),No,No,No,No,0.0,Yellow,Good
+Noida,South Indian,0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"Ice Cream, Desserts",0.33333333333333326,Indian Rupees(Rs.),No,Yes,No,No,0.0,Orange,Average
+Gurgaon,Oriya,0.7777777777777777,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+Gurgaon,"South Indian, North Indian, Chinese, Fast Food",0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Faridabad,North Indian,0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+Gurgaon,North Indian,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Yellow,Good
+New Delhi,"Ice Cream, Desserts",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,Bakery,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Noida,"Bakery, Desserts, Fast Food",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,Mughlai,0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,Fast Food,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Goa,"North Indian, Continental, Chinese, Seafood",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Green,Very Good
+Faridabad,"Cafe, Italian, Mexican, Continental",0.8888888888888888,Indian Rupees(Rs.),No,Yes,No,No,1.0,Green,Very Good
+Noida,"Bakery, North Indian",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,Cafe,0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,Yellow,Good
+New Delhi,"Fast Food, Italian, Pizza",0.11111111111111105,Indian Rupees(Rs.),No,Yes,No,No,0.0,Orange,Average
+New Delhi,Beverages,0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,Yellow,Good
+New Delhi,Finger Food,1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Yellow,Good
+Guwahati,"Continental, Chinese",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Green,Very Good
+Dubuque,"Italian, Pizza",0.0,Dollar($),No,No,No,No,1.0,Yellow,Good
+New Delhi,Mithai,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,North Indian,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Gurgaon,Cafe,0.4444444444444444,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"North Indian, Mughlai",0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Sioux City,Pizza,0.0,Dollar($),No,No,No,No,1.0,Yellow,Good
+Ranchi,"Cafe, Fast Food, North Indian",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Yellow,Good
+Noida,"North Indian, Chinese",0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,Yellow,Good
+Noida,"Pizza, Fast Food",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,White,Not rated
+New Delhi,Street Food,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"Mithai, Street Food",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Mangalore,"North Indian, Chinese",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Yellow,Good
+New Delhi,"North Indian, Chinese",0.6666666666666667,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+New Delhi,North Indian,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Gurgaon,"North Indian, Mughlai, Chinese",0.7777777777777777,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+Noida,"Chinese, Mughlai",0.6666666666666667,Indian Rupees(Rs.),No,Yes,No,No,1.0,Yellow,Good
+Edinburgh,"British, French",0.0,Pounds(��),No,No,No,No,1.0,Green,Very Good
+New Delhi,North Indian,0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,North Indian,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Gurgaon,"Asian, Chinese, North Indian",0.7777777777777777,Indian Rupees(Rs.),No,Yes,No,No,1.0,Yellow,Good
+Noida,"Ice Cream, Desserts",0.33333333333333326,Indian Rupees(Rs.),No,Yes,No,No,0.0,White,Not rated
+New Delhi,"Continental, Italian, Mediterranean, Asian",1.0,Indian Rupees(Rs.),Yes,Yes,No,No,1.0,Green,Very Good
+New Delhi,"North Indian, Chinese",0.5555555555555556,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+Faridabad,Fast Food,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Yellow,Good
+Mumbai,"Cafe, Italian, Desserts, Fast Food, Chinese, Tea",1.0,Indian Rupees(Rs.),Yes,Yes,No,No,1.0,Green,Very Good
+New Delhi,"Mexican, Italian, North Indian, Continental, Asian",1.0,Indian Rupees(Rs.),Yes,Yes,No,No,1.0,Orange,Average
+Gurgaon,"Burger, Fast Food",0.0,Indian Rupees(Rs.),No,Yes,No,No,0.0,Yellow,Good
+Noida,"Bakery, Desserts",0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,Ice Cream,0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,Yellow,Good
+New Delhi,"North Indian, Biryani, Chinese, Fast Food",1.0,Indian Rupees(Rs.),No,Yes,Yes,No,1.0,Yellow,Good
+Goa,Finger Food,1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Yellow,Good
+New Delhi,"Bakery, Chinese",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Dubuque,Italian,0.0,Dollar($),No,No,No,No,1.0,Orange,Average
+Patna,"North Indian, Chinese, Finger Food",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Yellow,Good
+New Delhi,Ice Cream,0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"Bakery, Fast Food",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Noida,"North Indian, Chinese",0.5555555555555556,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+New Delhi,"North Indian, Mughlai, Chinese, Seafood",1.0,Indian Rupees(Rs.),No,Yes,No,No,1.0,Yellow,Good
+New Delhi,North Indian,0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,North Indian,1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Yellow,Good
+New Delhi,North Indian,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Gurgaon,"Bakery, Desserts, Fast Food",0.11111111111111105,Indian Rupees(Rs.),No,Yes,No,No,0.0,Yellow,Good
+S��o Paulo,Italian,0.33333333333333326,Brazilian Real(R$),No,No,No,No,1.0,Green,Very Good
+Noida,"North Indian, Chinese",0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Gurgaon,"North Indian, Chinese, Mughlai",0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+New Delhi,"Ice Cream, Mithai, North Indian, Street Food",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Green,Very Good
+New Delhi,"Japanese, Korean",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Yellow,Good
+New Delhi,Fast Food,0.0,Indian Rupees(Rs.),No,Yes,No,No,0.0,Orange,Average
+New Delhi,South Indian,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,Chinese,0.8888888888888888,Indian Rupees(Rs.),No,Yes,No,No,1.0,Green,Very Good
+Noida,"Ice Cream, Desserts",0.2222222222222222,Indian Rupees(Rs.),No,No,No,No,0.0,Yellow,Good
+New Delhi,"American, Fast Food",1.0,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+New Delhi,North Indian,0.4444444444444444,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Bangalore,"Pizza, Cafe, Italian",0.7777777777777777,Indian Rupees(Rs.),No,No,No,No,1.0,Dark Green,Excellent
+New Delhi,"North Indian, Chinese",1.0,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+New Delhi,"North Indian, Chinese, South Indian",0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,Street Food,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Ghaziabad,Cafe,0.8888888888888888,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+Goa,"Goan, Seafood, North Indian",0.7777777777777777,Indian Rupees(Rs.),No,No,No,No,1.0,Dark Green,Excellent
+New Delhi,Chinese,0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"North Indian, Chinese",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Noida,"Chinese, Fast Food",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"North Indian, Mughlai, Chinese",1.0,Indian Rupees(Rs.),Yes,Yes,No,No,1.0,Orange,Average
+New Delhi,"North Indian, Biryani",0.4444444444444444,Indian Rupees(Rs.),No,Yes,No,No,0.0,Orange,Average
+Jaipur,Rajasthani,1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Green,Very Good
+New Delhi,North Indian,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,North Indian,0.2222222222222222,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Gurgaon,Ice Cream,0.0,Indian Rupees(Rs.),No,Yes,No,No,0.0,Orange,Average
+New Delhi,Desserts,0.11111111111111105,Indian Rupees(Rs.),No,Yes,No,No,0.0,Yellow,Good
+Albany,Chinese,0.0,Dollar($),No,No,No,No,0.0,Yellow,Good
+Gurgaon,North Indian,1.0,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+New Delhi,North Indian,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,North Indian,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Yellow,Good
+Noida,"Asian, Chinese, Japanese",1.0,Indian Rupees(Rs.),No,Yes,No,No,1.0,Green,Very Good
+Edinburgh,Italian,0.0,Pounds(��),No,No,No,No,1.0,Dark Green,Excellent
+New Delhi,"Bakery, Italian, Chinese, Mexican",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Yellow,Good
+Gurgaon,"Mughlai, North Indian",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,North Indian,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"Fast Food, North Indian",0.7777777777777777,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+Gurgaon,North Indian,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"Italian, North Indian, Continental",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Yellow,Good
+New Delhi,"Street Food, Desserts",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"Chinese, Continental",0.7777777777777777,Indian Rupees(Rs.),No,Yes,No,No,1.0,Yellow,Good
+New Delhi,"Japanese, Chinese, Asian, Malaysian, Thai, Vietnamese",1.0,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+Noida,"Italian, Pizza, Fast Food",1.0,Indian Rupees(Rs.),No,Yes,No,No,1.0,Red,Poor
+New Delhi,"South Indian, North Indian",0.7777777777777777,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+New Delhi,Bakery,0.2222222222222222,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Faridabad,Mughlai,0.7777777777777777,Indian Rupees(Rs.),No,Yes,No,No,1.0,Yellow,Good
+New Delhi,"North Indian, Chinese, Mughlai",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+Gurgaon,Ice Cream,0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Noida,North Indian,0.0,Indian Rupees(Rs.),No,Yes,No,No,0.0,Orange,Average
+New Delhi,"Goan, Seafood",1.0,Indian Rupees(Rs.),Yes,Yes,No,No,1.0,Yellow,Good
+Noida,"North Indian, Chinese",0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"North Indian, Mughlai",0.7777777777777777,Indian Rupees(Rs.),No,Yes,No,No,1.0,Red,Poor
+Noida,Bakery,0.11111111111111105,Indian Rupees(Rs.),No,Yes,No,No,0.0,Yellow,Good
+New Delhi,Cafe,0.4444444444444444,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,Bakery,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Doha,Indian,0.0,Qatari Rial(QR),No,No,No,No,1.0,Green,Very Good
+Gurgaon,"Italian, European",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Red,Poor
+New Delhi,"Chinese, Thai, Seafood",1.0,Indian Rupees(Rs.),Yes,Yes,No,No,1.0,Yellow,Good
+New Delhi,North Indian,0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"North Indian, Mughlai, Chinese",0.7777777777777777,Indian Rupees(Rs.),No,Yes,No,No,1.0,Yellow,Good
+Noida,Chinese,0.2222222222222222,Indian Rupees(Rs.),No,No,No,No,0.0,Yellow,Good
+Gurgaon,"Biryani, North Indian",1.0,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+Athens,"Breakfast, Burger, Sandwich",0.0,Dollar($),No,No,No,No,0.0,Yellow,Good
+New Delhi,North Indian,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,North Indian,0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,White,Not rated
+New Delhi,Mughlai,0.7777777777777777,Indian Rupees(Rs.),No,No,No,No,1.0,White,Not rated
+Gurgaon,Drinks Only,1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,White,Not rated
+New Delhi,"Chinese, Fast Food",0.33333333333333326,Indian Rupees(Rs.),No,Yes,No,No,0.0,Orange,Average
+Pretoria,"Cafe, Italian, Pizza, European, Bakery, Deli",0.33333333333333326,Rand(R),No,No,No,No,1.0,Yellow,Good
+Dubai,"American, Burger",0.11111111111111105,Emirati Diram(AED),No,No,No,No,1.0,Dark Green,Excellent
+New Delhi,"Lebanese, North Indian, Fast Food",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Noida,"North Indian, Chinese",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+Pretoria,"Cafe, Grill",0.3555555555555555,Rand(R),No,No,No,No,1.0,Green,Very Good
+New Delhi,Cafe,0.7777777777777777,Indian Rupees(Rs.),No,No,No,No,1.0,Yellow,Good
+New Delhi,Fast Food,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"North Indian, Mughlai, Chinese",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,White,Not rated
+Gurgaon,"North Indian, Chinese",0.7777777777777777,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+New Delhi,North Indian,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Bras�_lia,"Bar Food, Brazilian",0.0,Brazilian Real(R$),No,No,No,No,1.0,Yellow,Good
+New Delhi,"North Indian, Street Food",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Yellow,Good
+Cape Town,"Desserts, Ice Cream",0.0,Rand(R),No,No,No,No,1.0,Dark Green,Excellent
+Noida,"North Indian, Chinese",0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Macon,Steak,0.0,Dollar($),No,No,No,No,1.0,Green,Very Good
+New Delhi,North Indian,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,North Indian,1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Yellow,Good
+Gurgaon,"North Indian, South Indian, Street Food, Mithai",0.5555555555555556,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+Macon,"Greek, Mediterranean, Vegetarian",0.0,Dollar($),No,No,No,No,0.0,Green,Very Good
+New Delhi,North Indian,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Noida,"Italian, Fast Food",0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,Yellow,Good
+New Delhi,"Bakery, Desserts, Fast Food",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Yellow,Good
+Noida,Cafe,1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+New Delhi,"Raw Meats, Fast Food",0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,Street Food,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,Fast Food,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Gurgaon,"Biryani, Mughlai",1.0,Indian Rupees(Rs.),No,Yes,No,No,1.0,Yellow,Good
+New Delhi,"North Indian, Street Food",0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,Yellow,Good
+Dubai,"Goan, Chinese, Indian, North Indian",0.0,Emirati Diram(AED),Yes,Yes,No,No,1.0,Green,Very Good
+Tampa Bay,"British, Bar Food, Sandwich",0.0,Dollar($),No,No,No,No,1.0,Green,Very Good
+New Delhi,"North Indian, Chinese, South Indian",0.0,Indian Rupees(Rs.),No,Yes,No,No,0.0,White,Not rated
+New Delhi,"North Indian, Street Food",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Green,Very Good
+Noida,"North Indian, Chinese, Mughlai",0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,White,Not rated
+Albany,"American, Burger, Sandwich",0.0,Dollar($),No,No,No,No,1.0,Yellow,Good
+Noida,"North Indian, Fast Food, Chinese",0.4444444444444444,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"Mughlai, North Indian",0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Gurgaon,Juices,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Davenport,"American, BBQ, Steak",0.0,Dollar($),No,No,No,No,1.0,Green,Very Good
+Gurgaon,"North Indian, Chinese",0.5555555555555556,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+New Delhi,"Mughlai, North Indian",1.0,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+New Delhi,"Bakery, Desserts, Fast Food",0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,Green,Very Good
+New Delhi,North Indian,1.0,Indian Rupees(Rs.),Yes,Yes,No,No,1.0,Green,Very Good
+New Delhi,Cafe,0.4444444444444444,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Johannesburg,American,0.5888888888888888,Rand(R),Yes,No,No,No,1.0,Green,Very Good
+Gurgaon,"Mughlai, North Indian",0.4444444444444444,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"Beverages, Fast Food",0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,Yellow,Good
+New Delhi,Fast Food,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"Pizza, Burger, Fast Food",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Noida,Cafe,1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Green,Very Good
+New Delhi,Cafe,0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+Noida,"North Indian, South Indian, Chinese, Street Food, Fast Food, Mithai",0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,Red,Poor
+Noida,"Cafe, Mexican",0.6666666666666667,Indian Rupees(Rs.),No,Yes,No,No,1.0,White,Not rated
+New Delhi,Cafe,0.4444444444444444,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"North Indian, Mughlai",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Yellow,Good
+New Delhi,Chinese,0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,White,Not rated
+New Delhi,"North Indian, South Indian, Street Food, Fast Food, Mithai",0.7777777777777777,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+Noida,"Biryani, North Indian",0.11111111111111105,Indian Rupees(Rs.),No,Yes,No,No,0.0,Orange,Average
+New Delhi,"Mithai, Street Food",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,Cafe,0.4444444444444444,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"North Indian, Mughlai",1.0,Indian Rupees(Rs.),Yes,Yes,No,No,1.0,Red,Poor
+New Delhi,"Desserts, Bakery",0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,South Indian,0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,Asian,1.0,Indian Rupees(Rs.),No,No,No,No,1.0,White,Not rated
+New Delhi,Street Food,0.0,Indian Rupees(Rs.),No,Yes,No,No,0.0,Orange,Average
+Noida,"Fast Food, North Indian, South Indian",0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,North Indian,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Beechworth,"Pizza, Bar Food",0.0,Dollar($),No,No,No,No,1.0,Dark Green,Excellent
+Noida,Chinese,0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Taguig City,"Cafe, Bakery, American, Italian",1.0,Botswana Pula(P),Yes,No,No,No,1.0,Green,Very Good
+Gurgaon,Italian,1.0,Indian Rupees(Rs.),Yes,Yes,No,No,1.0,Yellow,Good
+New Delhi,"Pizza, Fast Food",0.7777777777777777,Indian Rupees(Rs.),No,Yes,No,No,1.0,White,Not rated
+New Delhi,"Chinese, North Indian",0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,Mughlai,0.11111111111111105,Indian Rupees(Rs.),No,Yes,No,No,0.0,Orange,Average
+New Delhi,Fast Food,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"North Indian, Mughlai, Chinese",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+Gurgaon,"Fast Food, Burger",0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+New Delhi,"North Indian, Chinese, South Indian",0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"American, Fast Food, Salad, Healthy Food",0.5555555555555556,Indian Rupees(Rs.),No,Yes,No,No,1.0,Red,Poor
+Noida,"North Indian, Chinese",0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"North Indian, Chinese, Raw Meats",1.0,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+New Delhi,Chinese,0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,Cafe,1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Yellow,Good
+New Delhi,North Indian,0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+New Delhi,North Indian,0.8888888888888888,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+New Delhi,Pizza,1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+New Delhi,Street Food,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Bhopal,"Italian, Mexican, Chinese",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Yellow,Good
+Pensacola,"Seafood, Sushi",0.0,Dollar($),No,No,No,No,1.0,Green,Very Good
+Birmingham,"Pakistani, Indian",0.0,Pounds(��),No,No,No,No,1.0,Yellow,Good
+New Delhi,"Raw Meats, Fast Food",0.2222222222222222,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,North Indian,0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Athens,"Breakfast, Sandwich",0.0,Dollar($),No,No,No,No,0.0,Green,Very Good
+Gurgaon,"North Indian, Chinese, Fast Food",1.0,Indian Rupees(Rs.),No,Yes,Yes,No,1.0,Orange,Average
+Hyderabad,"North Indian, Chinese",1.0,Indian Rupees(Rs.),No,Yes,No,No,1.0,Yellow,Good
+New Delhi,"Kerala, South Indian",0.2222222222222222,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,North Indian,0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Wellington City,"Cafe, European, Mexican",0.0,NewZealand($),No,No,No,No,1.0,Green,Very Good
+New Delhi,"Fast Food, Burger",0.4444444444444444,Indian Rupees(Rs.),No,Yes,No,No,0.0,Yellow,Good
+London,Italian,0.0,Pounds(��),No,No,No,No,1.0,Dark Green,Excellent
+New Delhi,"Bakery, Desserts",0.4444444444444444,Indian Rupees(Rs.),No,No,No,No,0.0,Yellow,Good
+Manchester,French,0.0,Pounds(��),No,No,No,No,1.0,Green,Very Good
+Gurgaon,"Italian, Mexican",0.33333333333333326,Indian Rupees(Rs.),No,Yes,No,No,0.0,Yellow,Good
+Pensacola,"Breakfast, Burger",0.0,Dollar($),No,No,No,No,1.0,Green,Very Good
+New Delhi,"Fast Food, Beverages",0.6666666666666667,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+Noida,"North Indian, Mughlai",0.2222222222222222,Indian Rupees(Rs.),No,Yes,No,No,0.0,White,Not rated
+New Delhi,Mughlai,0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,Yellow,Good
+Sharjah,"American, Mexican, Burger",0.0,Emirati Diram(AED),No,Yes,No,No,1.0,Green,Very Good
+New Delhi,European,1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,White,Not rated
+New Delhi,"Mithai, Street Food",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Yellow,Good
+New Delhi,"South Indian, North Indian, Chinese, Mughlai",0.2222222222222222,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"Raw Meats, Fast Food",0.2222222222222222,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Noida,"North Indian, South Indian, Chinese, Street Food, Fast Food, Mithai, Desserts",0.7777777777777777,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+Gurgaon,"Fast Food, Chinese",0.0,Indian Rupees(Rs.),No,Yes,No,No,0.0,Orange,Average
+New Delhi,"North Indian, Mughlai, Chinese",1.0,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+New Delhi,"Bakery, Mithai",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Noida,Italian,1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Orange,Average
+New Delhi,Asian,1.0,Indian Rupees(Rs.),No,No,No,No,1.0,White,Not rated
+Faridabad,"North Indian, Mughlai, Continental",0.7777777777777777,Indian Rupees(Rs.),No,No,No,No,1.0,White,Not rated
+Dalton,Japanese,0.0,Dollar($),No,No,No,No,0.0,Green,Very Good
+New Delhi,North Indian,0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,White,Not rated
+Gurgaon,"Fast Food, Chinese, Bengali",0.33333333333333326,Indian Rupees(Rs.),No,Yes,No,No,0.0,Orange,Average
+Gurgaon,Cafe,1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Yellow,Good
+Gurgaon,"North Indian, Chinese",0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+Faridabad,"Mithai, South Indian, Chinese, Street Food",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"Mughlai, North Indian",1.0,Indian Rupees(Rs.),Yes,Yes,No,No,1.0,Orange,Average
+New Delhi,"Continental, Mexican, Fast Food, North Indian, Chinese",0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+Gurgaon,"Healthy Food, North Indian",0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,Yellow,Good
+Colombo,Fast Food,1.0,Sri Lankan Rupee(LKR),No,No,No,No,1.0,Green,Very Good
+New Delhi,"Bakery, Desserts",0.4444444444444444,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"Raw Meats, North Indian",0.7777777777777777,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+New Delhi,"Chinese, North Indian",0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"North Indian, Chinese, Continental",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Orange,Average
+New Delhi,Fast Food,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Gurgaon,Fast Food,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,North Indian,0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,White,Not rated
+Bhopal,"North Indian, South Indian, Street Food, Bakery",0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,1.0,Green,Very Good
+New Delhi,"Chinese, Fast Food",0.4444444444444444,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Ludhiana,"Mediterranean, Chinese, Continental",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Green,Very Good
+Colombo,"American, Chinese, North Indian",1.0,Sri Lankan Rupee(LKR),No,No,No,No,1.0,Orange,Average
+New Delhi,"South Indian, Chinese",0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,Yellow,Good
+New Delhi,"Italian, Pizza, Fast Food",1.0,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+New Delhi,"North Indian, Mughlai",0.7777777777777777,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+New Delhi,"Bakery, Fast Food",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Noida,North Indian,0.33333333333333326,Indian Rupees(Rs.),No,Yes,No,No,0.0,Orange,Average
+Faridabad,"Bakery, Fast Food",0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"Bengali, South Indian, North Indian, Mughlai",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Yellow,Good
+New Delhi,North Indian,0.4444444444444444,Indian Rupees(Rs.),No,Yes,No,No,0.0,Yellow,Good
+New Delhi,"North Indian, Fast Food",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+Albany,"Chinese, Seafood, Vegetarian",0.0,Dollar($),No,No,No,No,1.0,Yellow,Good
+Noida,"Fast Food, North Indian",0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,Street Food,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Yellow,Good
+New Delhi,Street Food,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,North Indian,0.7777777777777777,Indian Rupees(Rs.),No,Yes,No,No,1.0,Yellow,Good
+Faridabad,"North Indian, Chinese",0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"Italian, Fast Food",0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,North Indian,0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"North Indian, Mughlai, Chinese",1.0,Indian Rupees(Rs.),Yes,Yes,No,No,1.0,Orange,Average
+New Delhi,North Indian,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Noida,North Indian,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Edinburgh,Cafe,0.0,Pounds(��),No,No,No,No,1.0,Yellow,Good
+New Delhi,North Indian,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"Italian, Chinese, Continental, Thai, Mediterranean, Lebanese",0.7777777777777777,Indian Rupees(Rs.),No,Yes,No,No,1.0,Yellow,Good
+Noida,"North Indian, Chinese, South Indian",0.4444444444444444,Indian Rupees(Rs.),No,Yes,No,No,0.0,Orange,Average
+New Delhi,Fast Food,0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+New Delhi,"Chinese, North Indian, Mughlai, Continental",1.0,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+New Delhi,"Pizza, Fast Food",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+New Delhi,Cafe,0.4444444444444444,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,North Indian,0.0,Indian Rupees(Rs.),No,Yes,No,No,0.0,White,Not rated
+Noida,"North Indian, South Indian, Chinese",0.2222222222222222,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,Fast Food,0.0,Indian Rupees(Rs.),No,Yes,No,No,0.0,Yellow,Good
+New Delhi,North Indian,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Pasig City,"Filipino, Mexican",1.0,Botswana Pula(P),No,No,No,No,1.0,Dark Green,Excellent
+New Delhi,"North Indian, Chinese",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Green,Very Good
+New Delhi,"North Indian, Chinese",0.5555555555555556,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+New Delhi,"South Indian, Chinese",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"Bakery, Fast Food",0.0,Indian Rupees(Rs.),No,Yes,No,No,0.0,Orange,Average
+New Delhi,North Indian,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Gurgaon,"Fast Food, Street Food, Beverages",0.2222222222222222,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Gurgaon,Biryani,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"South Indian, Kerala",1.0,Indian Rupees(Rs.),No,Yes,No,No,1.0,Yellow,Good
+Mysore,"Continental, South Indian",0.8888888888888888,Indian Rupees(Rs.),No,No,No,No,1.0,Yellow,Good
+Chandigarh,"American, Tex-Mex",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Green,Very Good
+New Delhi,Street Food,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Gurgaon,North Indian,1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+New Delhi,Chinese,0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,Continental,1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Yellow,Good
+Gurgaon,Italian,0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,Yellow,Good
+New Delhi,Mughlai,0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,North Indian,0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,North Indian,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,North Indian,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Edinburgh,"Steak, Scottish, British",0.0,Pounds(��),No,No,No,No,1.0,Green,Very Good
+New Delhi,North Indian,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,Kerala,0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,North Indian,0.5555555555555556,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+New Delhi,"North Indian, Chinese",0.5555555555555556,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+New Delhi,North Indian,0.7777777777777777,Indian Rupees(Rs.),No,No,No,No,1.0,Yellow,Good
+New Delhi,Chinese,0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,Yellow,Good
+New Delhi,"Mughlai, Biryani",0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"Chinese, North Indian",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,Bakery,0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+Noida,North Indian,0.5555555555555556,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+Bhopal,Cafe,0.7777777777777777,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+Noida,North Indian,0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,Chinese,0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Noida,"Raw Meats, Fast Food",0.2222222222222222,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,North Indian,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Pretoria,"Contemporary, Sushi, Grill, Italian, Steak",0.0,Rand(R),No,No,No,No,1.0,Orange,Average
+Augusta,"Mexican, Southwestern, Sushi",0.0,Dollar($),No,No,No,No,1.0,Green,Very Good
+Gurgaon,"Chinese, Fast Food",0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,Red,Poor
+New Delhi,North Indian,0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Gurgaon,"Street Food, North Indian",1.0,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+New Delhi,North Indian,0.2222222222222222,Indian Rupees(Rs.),No,No,No,No,0.0,Yellow,Good
+New Delhi,Finger Food,1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Yellow,Good
+New Delhi,"South Indian, North Indian, Street Food, Chinese, Mithai",0.5555555555555556,Indian Rupees(Rs.),No,Yes,No,No,1.0,Yellow,Good
+New Delhi,"American, Asian, European, Seafood",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Dark Green,Excellent
+Gurgaon,"Chinese, Thai, Asian, Malaysian, Vietnamese, Japanese",1.0,Indian Rupees(Rs.),No,Yes,No,No,1.0,Yellow,Good
+Gurgaon,"Cafe, Continental",1.0,Indian Rupees(Rs.),No,Yes,No,No,1.0,Green,Very Good
+Gurgaon,"North Indian, American, Italian",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Orange,Average
+New Delhi,"Bakery, Pizza",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Gurgaon,"North Indian, Chinese",0.8888888888888888,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+Bhopal,South Indian,0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,Yellow,Good
+New Delhi,Street Food,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"Chinese, South Indian",0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Gurgaon,"North Indian, Fast Food",0.7777777777777777,Indian Rupees(Rs.),No,Yes,No,No,1.0,Yellow,Good
+New Delhi,"Street Food, Desserts",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Gurgaon,"North Indian, Chinese, Italian",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Orange,Average
+Gurgaon,Rajasthani,1.0,Indian Rupees(Rs.),No,No,No,No,1.0,White,Not rated
+New Delhi,"Bakery, Desserts, Fast Food",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"Pizza, Fast Food",0.5555555555555556,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+Faridabad,Cafe,0.4444444444444444,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Gurgaon,"Cafe, Pizza, Burger",1.0,Indian Rupees(Rs.),No,Yes,No,No,1.0,Green,Very Good
+New Delhi,"Desserts, Bakery",0.7777777777777777,Indian Rupees(Rs.),No,No,No,No,1.0,Yellow,Good
+New Delhi,"Chinese, Thai, Seafood",1.0,Indian Rupees(Rs.),Yes,Yes,No,No,1.0,Orange,Average
+Faridabad,Chinese,0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"Chinese, Mughlai, North Indian",0.7777777777777777,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+Tangerang,"Sunda, Indonesian",1.0,Indonesian Rupiah(IDR),No,No,No,No,1.0,Dark Green,Excellent
+New Delhi,South Indian,0.4444444444444444,Indian Rupees(Rs.),No,Yes,No,No,0.0,Orange,Average
+New Delhi,"European, Italian",1.0,Indian Rupees(Rs.),Yes,Yes,No,No,1.0,Yellow,Good
+New Delhi,"North Indian, Chinese",0.5555555555555556,Indian Rupees(Rs.),No,Yes,No,No,1.0,Yellow,Good
+Aurangabad,"North Indian, Chinese",0.7777777777777777,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+Noida,North Indian,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Gurgaon,"Burmese, Chinese, Japanese, Malaysian, Thai",1.0,Indian Rupees(Rs.),Yes,Yes,No,No,1.0,Yellow,Good
+Tampa Bay,"European, German",0.0,Dollar($),No,No,No,No,1.0,Dark Green,Excellent
+New Delhi,Bakery,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"American, Fast Food, Salad, Healthy Food",0.5555555555555556,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+New Delhi,"Chinese, North Indian",0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"Fast Food, Burger",0.33333333333333326,Indian Rupees(Rs.),No,Yes,No,No,0.0,Red,Poor
+Lucknow,North Indian,1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Dark Green,Excellent
+New Delhi,"Cafe, Fast Food, Italian, Chinese",0.8888888888888888,Indian Rupees(Rs.),Yes,Yes,No,No,1.0,Yellow,Good
+Gurgaon,"North Indian, Chinese, South Indian, Fast Food",0.4444444444444444,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Athens,"American, Southern, Southwestern",0.0,Dollar($),No,No,No,No,1.0,Dark Green,Excellent
+New Delhi,North Indian,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"Finger Food, Continental, Italian, Chinese",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Yellow,Good
+Noida,Fast Food,0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"Desserts, Beverages",0.2222222222222222,Indian Rupees(Rs.),No,Yes,No,No,0.0,Yellow,Good
+New Delhi,Juices,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"North Indian, Chinese, Fast Food",0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Aurangabad,"South Indian, North Indian, Chinese, Fast Food",0.4444444444444444,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+New Delhi,"Italian, Continental, Fast Food, Chinese",0.7777777777777777,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+Gurgaon,"North Indian, Fast Food",0.2222222222222222,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Noida,Fast Food,0.0,Indian Rupees(Rs.),No,Yes,No,No,0.0,Orange,Average
+Noida,"Burger, Fast Food",0.33333333333333326,Indian Rupees(Rs.),No,Yes,No,No,0.0,Yellow,Good
+New Delhi,"Raw Meats, Fast Food",0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Noida,"South Indian, North Indian, Street Food",0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Lucknow,"Cafe, Italian, Continental",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Dark Green,Excellent
+Manchester,"Indian, Seafood",0.0,Pounds(��),No,No,No,No,1.0,Yellow,Good
+Aurangabad,"North Indian, Chinese, Continental, Italian, Mexican",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+New Delhi,Fast Food,0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,Chinese,0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Faridabad,North Indian,0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"North Indian, Continental, Chinese",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,White,Not rated
+New Delhi,"North Indian, Chinese",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+New Delhi,Fast Food,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,Chinese,0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Gurgaon,"Pizza, Italian",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Yellow,Good
+Gurgaon,"Japanese, Sushi",1.0,Indian Rupees(Rs.),Yes,Yes,No,No,1.0,Orange,Average
+New Delhi,"North Indian, Mughlai",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,White,Not rated
+New Delhi,Bakery,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"North Indian, Chinese, South Indian",0.7777777777777777,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+Jakarta,"Asian, Indonesian, Western",1.0,Indonesian Rupiah(IDR),No,No,No,No,1.0,Dark Green,Excellent
+New Delhi,"North Indian, Chinese",0.33333333333333326,Indian Rupees(Rs.),No,Yes,No,No,0.0,Orange,Average
+New Delhi,"Italian, Pizza, Fast Food",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+Sandton,"Contemporary, Italian",0.4444444444444444,Rand(R),No,No,No,No,1.0,Dark Green,Excellent
+London,"Indian, Street Food",0.0,Pounds(��),Yes,No,No,No,1.0,Dark Green,Excellent
+Noida,Fast Food,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,Chinese,0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"Bakery, Fast Food",0.4444444444444444,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"North Indian, Mughlai",0.2222222222222222,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"North Indian, Mughlai, Chinese, Italian",0.4444444444444444,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Dalton,"Mexican, Tex-Mex",0.0,Dollar($),No,No,No,No,0.0,Yellow,Good
+Jaipur,"North Indian, Chinese, Continental, Rajasthani",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Dark Green,Excellent
+New Delhi,"Fast Food, American, Italian",0.7777777777777777,Indian Rupees(Rs.),No,Yes,No,No,1.0,Yellow,Good
+New Delhi,"Chinese, North Indian, Mithai, Street Food",0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Macon,"Coffee and Tea, Cuban, Latin American",0.0,Dollar($),No,No,No,No,1.0,Yellow,Good
+New Delhi,"North Indian, Continental",1.0,Indian Rupees(Rs.),Yes,Yes,No,No,1.0,Yellow,Good
+New Delhi,"Raw Meats, Fast Food",0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Noida,"Pizza, Fast Food",0.5555555555555556,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+Gurgaon,"Healthy Food, Salad",1.0,Indian Rupees(Rs.),No,Yes,No,No,1.0,Yellow,Good
+New Delhi,Fast Food,0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,North Indian,0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Gurgaon,"Finger Food, North Indian, Chinese",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,White,Not rated
+Noida,"North Indian, Chinese",0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"Chinese, Thai",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Orange,Average
+Gurgaon,"Chinese, Thai",1.0,Indian Rupees(Rs.),Yes,Yes,No,No,1.0,Yellow,Good
+Varanasi,"North Indian, Mughlai",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+New Delhi,"North Indian, Fast Food, Bihari",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Orange,Average
+New Delhi,Cafe,0.4444444444444444,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Gurgaon,"Continental, North Indian",0.5555555555555556,Indian Rupees(Rs.),No,Yes,No,No,1.0,Yellow,Good
+Noida,"North Indian, Chinese",0.5555555555555556,Indian Rupees(Rs.),No,Yes,No,No,1.0,White,Not rated
+New Delhi,North Indian,0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,North Indian,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Noida,Chinese,1.0,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+New Delhi,Fast Food,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,North Indian,0.2222222222222222,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Noida,"Mithai, Street Food",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Gurgaon,"Pizza, Fast Food",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Red,Poor
+New Delhi,"North Indian, Mughlai, Chinese",0.33333333333333326,Indian Rupees(Rs.),No,Yes,No,No,0.0,Orange,Average
+New Delhi,"North Indian, Chinese, Mughlai",1.0,Indian Rupees(Rs.),Yes,Yes,No,No,1.0,Orange,Average
+New Delhi,Finger Food,1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+New Delhi,"Chinese, Fast Food",0.33333333333333326,Indian Rupees(Rs.),No,Yes,No,No,0.0,Orange,Average
+New Delhi,Fast Food,0.2222222222222222,Indian Rupees(Rs.),No,Yes,No,No,0.0,Orange,Average
+New Delhi,"Italian, Pizza, Fast Food",1.0,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+Amritsar,North Indian,0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,1.0,Yellow,Good
+Bhubaneshwar,"North Indian, Chinese",0.4444444444444444,Indian Rupees(Rs.),No,No,No,No,0.0,Yellow,Good
+New Delhi,North Indian,0.2222222222222222,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Faridabad,"North Indian, Mughlai, Chinese",1.0,Indian Rupees(Rs.),Yes,Yes,No,No,1.0,Orange,Average
+Faridabad,Mithai,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"Continental, American, Asian, North Indian",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Green,Very Good
+New Delhi,"Chinese, Thai",1.0,Indian Rupees(Rs.),No,Yes,No,No,1.0,Green,Very Good
+Davenport,Mexican,0.0,Dollar($),No,No,No,No,1.0,White,Not rated
+Gurgaon,"Street Food, North Indian, Mithai",0.2222222222222222,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,Fast Food,1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+New Delhi,"Chinese, Thai",1.0,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+Noida,"North Indian, Chinese",0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"North Indian, South Indian, Chinese, Street Food, Mithai",0.33333333333333326,Indian Rupees(Rs.),No,Yes,No,No,0.0,Orange,Average
+New Delhi,North Indian,0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Gurgaon,"North Indian, Mughlai, Chinese",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Red,Poor
+Noida,North Indian,0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,Biryani,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"Raw Meats, North Indian, Fast Food",0.2222222222222222,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Nagpur,"Fast Food, Chinese",0.6666666666666667,Indian Rupees(Rs.),No,Yes,No,No,1.0,Green,Very Good
+Pocatello,"Asian, Sushi, Vegetarian",0.0,Dollar($),No,No,No,No,1.0,Yellow,Good
+New Delhi,"Japanese, Chinese",1.0,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+Noida,"North Indian, South Indian",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"Bakery, Desserts",0.2222222222222222,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"Fast Food, Chinese",0.2222222222222222,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Gurgaon,"Street Food, Mithai, North Indian, South Indian, Chinese",0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Noida,"North Indian, Chinese, Continental, Mughlai",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,White,Not rated
+New Delhi,"Continental, American, North Indian",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Yellow,Good
+New Delhi,"North Indian, Chinese",1.0,Indian Rupees(Rs.),Yes,Yes,No,No,1.0,Orange,Average
+New Delhi,"Bakery, Desserts, Fast Food",0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,Green,Very Good
+New Delhi,"Fast Food, North Indian",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Auckland,Malaysian,0.0,NewZealand($),No,No,No,No,1.0,Green,Very Good
+New Delhi,"Pizza, Fast Food",0.5555555555555556,Indian Rupees(Rs.),No,Yes,No,No,1.0,White,Not rated
+New Delhi,"North Indian, Fast Food, Chinese",0.2222222222222222,Indian Rupees(Rs.),No,Yes,No,No,0.0,Orange,Average
+Gurgaon,Fast Food,0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,Cafe,0.2222222222222222,Indian Rupees(Rs.),No,Yes,No,No,0.0,Yellow,Good
+Gurgaon,"Bengali, North Indian",0.2222222222222222,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"Bakery, Desserts",0.2222222222222222,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"Beverages, Healthy Food",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Flaxton,"Tea, Modern Australian",0.0,Dollar($),No,No,No,No,1.0,Yellow,Good
+Ranchi,"North Indian, Chinese, South Indian, Chinese",0.4444444444444444,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"North Indian, Street Food, Chinese",0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,Street Food,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"North Indian, Mithai",0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,Biryani,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Gurgaon,"Burger, Desserts, Fast Food",0.7777777777777777,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+New Delhi,"Burger, Fast Food",0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+Orlando,Irish,0.0,Dollar($),No,No,No,No,1.0,Green,Very Good
+Gainesville,"Sandwich, Seafood, Cajun",0.0,Dollar($),No,No,No,No,1.0,Dark Green,Excellent
+New Delhi,"North Indian, Chinese",0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+Faridabad,"North Indian, Chinese, Continental",0.7777777777777777,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+Singapore,Finger Food,0.0,Dollar($),No,No,No,No,1.0,Yellow,Good
+Kanpur,"Chinese, North Indian, Continental",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Yellow,Good
+New Delhi,"American, Fast Food, Salad, Healthy Food",0.5555555555555556,Indian Rupees(Rs.),No,Yes,No,No,1.0,Red,Poor
+New Delhi,"North Indian, Chinese, Fast Food",0.7777777777777777,Indian Rupees(Rs.),No,Yes,No,No,1.0,Yellow,Good
+New Delhi,"South Indian, Chinese, Mithai",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"Tibetan, Chinese",0.2222222222222222,Indian Rupees(Rs.),No,No,No,No,0.0,Yellow,Good
+Gurgaon,"Bakery, Desserts, North Indian, Bengali, South Indian",0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,Yellow,Good
+Ahmedabad,"North Indian, Continental, Mexican, Italian",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Green,Very Good
+Gurgaon,"Bakery, Fast Food, Chinese",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Gurgaon,Chinese,0.2222222222222222,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Goa,"Goan, Seafood, Chinese, North Indian",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Green,Very Good
+New Delhi,"Fast Food, South Indian, Chinese",0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Noida,Healthy Food,1.0,Indian Rupees(Rs.),Yes,Yes,No,No,1.0,Yellow,Good
+Gurgaon,"Cafe, Tea",0.33333333333333326,Indian Rupees(Rs.),No,Yes,No,No,0.0,Yellow,Good
+Chandigarh,North Indian,1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Yellow,Good
+Ranchi,"North Indian, Continental, Chinese",0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,Chinese,0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"North Indian, Mughlai, Chinese",0.8888888888888888,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+New Delhi,"Pizza, Fast Food",0.5555555555555556,Indian Rupees(Rs.),No,Yes,No,No,1.0,White,Not rated
+Bangalore,Modern Indian,1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Green,Very Good
+New Delhi,North Indian,0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"Cafe, Continental, Chinese, North Indian, Italian",1.0,Indian Rupees(Rs.),Yes,Yes,No,No,1.0,Yellow,Good
+New Delhi,"Bakery, Fast Food",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"North Indian, South Indian, Bakery, Italian",0.2222222222222222,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Hyderabad,"Mexican, American, Tex-Mex, Burger",1.0,Indian Rupees(Rs.),Yes,Yes,No,No,1.0,Dark Green,Excellent
+New Delhi,"Chinese, North Indian, Seafood",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+Pensacola,"Burger, Bar Food",0.0,Dollar($),No,No,No,No,1.0,Yellow,Good
+Noida,"Pizza, Fast Food",0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+Noida,"North Indian, Mughlai",1.0,Indian Rupees(Rs.),No,Yes,No,No,1.0,Yellow,Good
+New Delhi,"North Indian, Continental, Fast Food",1.0,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+New Delhi,North Indian,0.2222222222222222,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Noida,"South Indian, North Indian, Chinese",0.11111111111111105,Indian Rupees(Rs.),No,Yes,No,No,0.0,Orange,Average
+New Delhi,"Chinese, Japanese",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Orange,Average
+New Delhi,Cafe,0.4444444444444444,Indian Rupees(Rs.),No,No,No,No,0.0,Yellow,Good
+Bras�_lia,Cafe,0.0,Brazilian Real(R$),No,No,No,No,0.0,Yellow,Good
+New Delhi,North Indian,0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,Yellow,Good
+New Delhi,Fast Food,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"Mithai, Street Food",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Ranchi,"Cafe, Italian, Mexican, Chinese, North Indian",0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+Noida,North Indian,0.0,Indian Rupees(Rs.),No,Yes,No,No,0.0,Orange,Average
+New Delhi,"North Indian, Chinese",0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"Chinese, North Indian",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"European, North Indian",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Orange,Average
+New Delhi,Chinese,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"North Indian, South Indian, Chinese",0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+Gurgaon,"South Indian, Chinese",0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,Cafe,0.4444444444444444,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,Pizza,0.7777777777777777,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+New Delhi,Chinese,0.2222222222222222,Indian Rupees(Rs.),No,Yes,No,No,0.0,Orange,Average
+New Delhi,Fast Food,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,Mughlai,0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"South Indian, Street Food, Desserts",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Goa,Fast Food,1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Dark Green,Excellent
+New Delhi,Beverages,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Noida,"Desserts, Beverages",0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+Doha,Indian,0.0,Qatari Rial(QR),No,No,No,No,1.0,Orange,Average
+New Delhi,"Burmese, Chinese, Japanese, Malaysian, Thai",1.0,Indian Rupees(Rs.),Yes,Yes,No,No,1.0,Yellow,Good
+Noida,"North Indian, Chinese",0.33333333333333326,Indian Rupees(Rs.),No,Yes,No,No,0.0,Yellow,Good
+Ahmedabad,"Desserts, Ice Cream",0.2222222222222222,Indian Rupees(Rs.),No,No,No,No,1.0,Dark Green,Excellent
+New Delhi,"North Indian, Mithai, South Indian, Street Food, Fast Food",0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Gurgaon,"North Indian, South Indian, Fast Food, Street Food, Mithai",0.7777777777777777,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+Noida,"Chinese, North Indian",0.5555555555555556,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+New Delhi,"Chinese, North Indian",0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"Street Food, North Indian, Mithai",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Yellow,Good
+New Delhi,Healthy Food,0.7777777777777777,Indian Rupees(Rs.),No,Yes,No,No,1.0,Yellow,Good
+Pretoria,"Continental, Seafood, Burger, South African, Finger Food, Grill",0.0,Rand(R),No,No,No,No,1.0,Green,Very Good
+New Delhi,"Cafe, Korean",0.7777777777777777,Indian Rupees(Rs.),No,Yes,No,No,1.0,Yellow,Good
+New Delhi,"North Indian, Mughlai",0.7777777777777777,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+Sharjah,"Pakistani, Indian, Mughlai",0.0,Emirati Diram(AED),No,Yes,No,No,1.0,Green,Very Good
+New Delhi,Finger Food,1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Orange,Average
+Noida,"North Indian, Chinese",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Orange,Average
+New Delhi,"Pizza, Fast Food",0.5555555555555556,Indian Rupees(Rs.),No,Yes,No,No,1.0,White,Not rated
+New Delhi,"North Indian, Chinese",0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+Faridabad,"South Indian, Chinese, North Indian",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Waterloo,Mexican,0.0,Dollar($),No,No,No,No,1.0,Yellow,Good
+New Delhi,Mughlai,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Tampa Bay,"Desserts, Bar Food",0.0,Dollar($),No,No,No,No,1.0,Dark Green,Excellent
+New Delhi,Mughlai,0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"North Indian, Chinese",0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Faridabad,"North Indian, Chinese, Continental",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Orange,Average
+New Delhi,Pizza,0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,Yellow,Good
+Doha,International,0.5555555555555556,Qatari Rial(QR),No,No,No,No,1.0,Yellow,Good
+New Delhi,Cafe,1.0,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+New Delhi,"North Indian, Chinese, Mughlai",0.7777777777777777,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+New Delhi,"Fast Food, Burger",0.5555555555555556,Indian Rupees(Rs.),No,Yes,No,No,1.0,Yellow,Good
+New Delhi,Beverages,0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"Bakery, Desserts",0.6666666666666667,Indian Rupees(Rs.),No,Yes,No,No,1.0,Green,Very Good
+New Delhi,"Bakery, Fast Food",0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,Yellow,Good
+Faridabad,"North Indian, Chinese",0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"Cafe, North Indian, Continental, Italian",1.0,Indian Rupees(Rs.),No,Yes,No,No,1.0,Yellow,Good
+New Delhi,"Mithai, Street Food",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Yellow,Good
+New Delhi,"North Indian, South Indian",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Noida,American,0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Faridabad,"North Indian, Chinese, Fast Food",0.5555555555555556,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+Noida,"North Indian, Chinese",0.7777777777777777,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+Noida,"North Indian, Chinese, South Indian, Mithai",0.8888888888888888,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+Gurgaon,"Chinese, North Indian",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Orange,Average
+New Delhi,"North Indian, Mughlai",1.0,Indian Rupees(Rs.),No,Yes,No,No,1.0,Green,Very Good
+Noida,"North Indian, Chinese, Cafe",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Orange,Average
+Sandton,Mediterranean,0.4444444444444444,Rand(R),No,No,No,No,1.0,Green,Very Good
+New Delhi,"Bakery, Fast Food",0.11111111111111105,Indian Rupees(Rs.),No,Yes,No,No,0.0,Orange,Average
+New Delhi,Italian,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"North Indian, Mughlai, Chinese",1.0,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+New Delhi,Fast Food,0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Nagpur,"Cafe, Continental",1.0,Indian Rupees(Rs.),No,Yes,No,No,1.0,Green,Very Good
+Rio de Janeiro,"Bar Food, Brazilian",0.0,Brazilian Real(R$),No,No,No,No,1.0,White,Not rated
+New Delhi,Chinese,0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,Fast Food,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,Fast Food,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"Chinese, Thai",1.0,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+New Delhi,"North Indian, Chinese",0.11111111111111105,Indian Rupees(Rs.),No,Yes,No,No,0.0,Orange,Average
+New Delhi,"Healthy Food, Juices",0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,White,Not rated
+Gurgaon,"North Indian, Chinese",0.7777777777777777,Indian Rupees(Rs.),No,No,No,No,1.0,Red,Poor
+New Delhi,Sushi,1.0,Indian Rupees(Rs.),No,Yes,No,No,1.0,Green,Very Good
+Allahabad,"North Indian, Chinese",0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+New Delhi,Fast Food,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Yellow,Good
+New Delhi,"Thai, Chinese, Asian, Malaysian",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Yellow,Good
+New Delhi,"Bakery, Desserts",0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,Yellow,Good
+Gurgaon,North Indian,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"Fast Food, Italian, Chinese",0.2222222222222222,Indian Rupees(Rs.),No,Yes,No,No,0.0,Green,Very Good
+Gurgaon,"North Indian, South Indian, Fast Food, Street Food, Chinese, Beverages, Desserts, Mithai",0.7777777777777777,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+New Delhi,"Mughlai, North Indian, Chinese",1.0,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+New Delhi,"Tibetan, Fast Food",0.2222222222222222,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,Mughlai,0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Faridabad,"North Indian, Chinese",0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+New Delhi,Mughlai,0.7777777777777777,Indian Rupees(Rs.),No,No,No,No,1.0,Yellow,Good
+New Delhi,North Indian,1.0,Indian Rupees(Rs.),No,Yes,No,No,1.0,Yellow,Good
+New Delhi,Street Food,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Yellow,Good
+New Delhi,"Mithai, Street Food",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,North Indian,0.2222222222222222,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,North Indian,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Gurgaon,North Indian,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,Cafe,0.4444444444444444,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,Bakery,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Yellow,Good
+Vizag,"Andhra, North Indian, Chinese, Seafood, Biryani",0.7777777777777777,Indian Rupees(Rs.),No,No,No,No,1.0,Yellow,Good
+New Delhi,Cafe,0.7777777777777777,Indian Rupees(Rs.),No,No,No,No,1.0,White,Not rated
+New Delhi,"Bakery, Desserts, Fast Food, Pizza, Burger, Finger Food",0.33333333333333326,Indian Rupees(Rs.),No,Yes,No,No,0.0,Orange,Average
+New Delhi,"Chinese, Naga",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Yellow,Good
+Puducherry,"North Indian, Seafood, South Indian, Italian",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Yellow,Good
+New Delhi,"Mughlai, North Indian",0.7777777777777777,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+New Delhi,"Fast Food, Bakery",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,Street Food,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"Chinese, North Indian, Fast Food, Italian",1.0,Indian Rupees(Rs.),No,Yes,No,No,1.0,Green,Very Good
+New Delhi,"Raw Meats, Fast Food, North Indian",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,Biryani,0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Guwahati,"Chinese, North Indian",0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,Yellow,Good
+New Delhi,"North Indian, Chinese",1.0,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+Bhubaneshwar,Cafe,0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,Yellow,Good
+New Delhi,Street Food,0.0,Indian Rupees(Rs.),No,Yes,No,No,0.0,Green,Very Good
+New Delhi,South Indian,0.0,Indian Rupees(Rs.),No,Yes,No,No,0.0,Orange,Average
+New Delhi,Cafe,0.6666666666666667,Indian Rupees(Rs.),No,No,No,No,1.0,Yellow,Good
+New Delhi,"North Indian, Chinese, Fast Food",0.5555555555555556,Indian Rupees(Rs.),No,Yes,No,No,1.0,Red,Poor
+Singapore,Bakery,0.0,Dollar($),No,No,No,No,1.0,Green,Very Good
+New Delhi,"North Indian, Chinese, South Indian",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Orange,Average
+Indore,"North Indian, Chinese",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Green,Very Good
+New Delhi,"North Indian, Street Food",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"Ice Cream, Beverages",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Yellow,Good
+New Delhi,"Mughlai, North Indian, Chinese",0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+New Delhi,"North Indian, Chinese, South Indian, Fast Food",1.0,Indian Rupees(Rs.),Yes,Yes,No,No,1.0,Orange,Average
+Gurgaon,North Indian,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"Chinese, Bakery",0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Coimbatore,Pizza,0.7777777777777777,Indian Rupees(Rs.),No,Yes,No,No,1.0,Yellow,Good
+New Delhi,"Pizza, Fast Food",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+New Delhi,"Pizza, Fast Food, Bakery",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,South Indian,0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"North Indian, Chinese",0.7777777777777777,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+Noida,"North Indian, Chinese, South Indian, Mithai",0.8888888888888888,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+New Delhi,North Indian,0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,White,Not rated
+Gurgaon,"Chinese, Thai, Asian",0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,Green,Very Good
+Gurgaon,Healthy Food,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Noida,"Italian, Pizza, Fast Food",1.0,Indian Rupees(Rs.),No,Yes,No,No,1.0,Red,Poor
+New Delhi,Chinese,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"Street Food, Fast Food",0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Surat,"Italian, Lebanese, Mexican",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Yellow,Good
+Noida,"Juices, Healthy Food",0.5555555555555556,Indian Rupees(Rs.),No,Yes,No,No,1.0,Green,Very Good
+Dalton,"American, Japanese, Sushi",0.0,Dollar($),No,No,No,No,1.0,Dark Green,Excellent
+New Delhi,"North Indian, Chinese",0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,White,Not rated
+Dehradun,"North Indian, Mughlai",0.7777777777777777,Indian Rupees(Rs.),No,No,No,No,1.0,Yellow,Good
+New Delhi,Fast Food,0.5555555555555556,Indian Rupees(Rs.),No,Yes,No,No,1.0,Yellow,Good
+Gurgaon,Street Food,0.0,Indian Rupees(Rs.),No,Yes,No,No,0.0,Orange,Average
+New Delhi,"Street Food, Mithai",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Gurgaon,"North Indian, Mughlai, Asian, Continental",1.0,Indian Rupees(Rs.),Yes,Yes,No,No,1.0,Yellow,Good
+New Delhi,Chinese,0.33333333333333326,Indian Rupees(Rs.),No,Yes,No,No,0.0,Yellow,Good
+New Delhi,"Ice Cream, Desserts",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Faridabad,North Indian,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"North Indian, Mughlai",1.0,Indian Rupees(Rs.),No,Yes,No,No,1.0,Yellow,Good
+Bangalore,Modern Indian,1.0,Indian Rupees(Rs.),No,Yes,No,No,1.0,Green,Very Good
+New Delhi,"North Indian, South Indian, Chinese",1.0,Indian Rupees(Rs.),Yes,Yes,No,No,1.0,Orange,Average
+New Delhi,"North Indian, Mithai",0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,North Indian,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"North Indian, Chinese",0.2222222222222222,Indian Rupees(Rs.),No,Yes,No,No,0.0,Orange,Average
+Gurgaon,"Chinese, North Indian",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,White,Not rated
+Singapore,"American, Japanese, Singaporean",0.0,Dollar($),No,No,No,No,1.0,Orange,Average
+New Delhi,"Street Food, South Indian, Mithai",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Boise,Mexican,0.0,Dollar($),No,No,No,No,0.0,Green,Very Good
+New Delhi,"American, Continental, North Indian, Chinese",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Yellow,Good
+New Delhi,Fast Food,0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,Yellow,Good
+New Delhi,"South Indian, Chinese, Fast Food",0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Chatham-Kent,"Japanese, Sushi",0.0,Dollar($),No,No,No,No,1.0,Yellow,Good
+Faridabad,"North Indian, Seafood",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,White,Not rated
+New Delhi,"North Indian, Chinese, Italian",1.0,Indian Rupees(Rs.),Yes,Yes,No,No,1.0,Green,Very Good
+Pocatello,Chinese,0.0,Dollar($),No,No,No,No,0.0,Yellow,Good
+New Delhi,"North Indian, Fast Food",0.33333333333333326,Indian Rupees(Rs.),No,Yes,No,No,0.0,Orange,Average
+New Delhi,"North Indian, Continental, Chinese, Italian, Lebanese",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Yellow,Good
+New Delhi,"North Indian, Chinese, Continental",1.0,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+Noida,"Bakery, Desserts",0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"Chinese, Mughlai",1.0,Indian Rupees(Rs.),Yes,Yes,No,No,1.0,Orange,Average
+New Delhi,North Indian,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Noida,"Fast Food, Chinese, North Indian",0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,Yellow,Good
+New Delhi,Ice Cream,0.0,Indian Rupees(Rs.),No,Yes,No,No,0.0,Yellow,Good
+New Delhi,"Fast Food, Chinese",0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,Mughlai,0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,Green,Very Good
+New Delhi,"Desserts, Beverages",0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Auckland,Desserts,0.0,NewZealand($),No,No,No,No,0.0,Dark Green,Excellent
+New Delhi,North Indian,0.5555555555555556,Indian Rupees(Rs.),No,Yes,No,No,1.0,Yellow,Good
+Noida,"American, Fast Food, Burger",0.5555555555555556,Indian Rupees(Rs.),No,Yes,No,No,1.0,White,Not rated
+Kanpur,"North Indian, Chinese",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Green,Very Good
+New Delhi,"Chinese, Mughlai, North Indian",0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"Italian, Pizza, Fast Food",1.0,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+Faridabad,Cafe,0.7777777777777777,Indian Rupees(Rs.),No,No,No,No,1.0,White,Not rated
+New Delhi,Finger Food,1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Orange,Average
+New Delhi,North Indian,0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,White,Not rated
+New Delhi,"North Indian, Chinese",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"Burger, Juices, Finger Food",0.5555555555555556,Indian Rupees(Rs.),No,Yes,No,No,1.0,Yellow,Good
+New Delhi,"North Indian, European, South Indian",1.0,Indian Rupees(Rs.),Yes,Yes,No,No,1.0,Yellow,Good
+New Delhi,North Indian,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+London,"Indian, North Indian, Curry, Cafe",0.0,Pounds(��),No,No,No,No,1.0,Dark Green,Excellent
+Noida,"Cafe, Continental, Fast Food",0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Faridabad,"North Indian, Chinese",0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,Ice Cream,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Surat,"Chinese, North Indian, Italian, Mexican",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Yellow,Good
+New Delhi,"North Indian, Chinese",1.0,Indian Rupees(Rs.),Yes,Yes,No,No,1.0,Orange,Average
+New Delhi,"North Indian, South Indian, Chinese, Fast Food",0.6666666666666667,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+New Delhi,"Cafe, Chinese, Fast Food",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+New Delhi,"Mexican, American",1.0,Indian Rupees(Rs.),Yes,Yes,No,No,1.0,Green,Very Good
+Gurgaon,Street Food,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Faridabad,"North Indian, South Indian, Gujarati, Rajasthani",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+New Delhi,"Chinese, North Indian, Fast Food, Street Food",0.4444444444444444,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"North Indian, Chinese",0.7777777777777777,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+Dalton,BBQ,0.0,Dollar($),No,No,No,No,1.0,Green,Very Good
+New Delhi,North Indian,0.2222222222222222,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"North Indian, Chinese, Continental",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Orange,Average
+Noida,"North Indian, South Indian",0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,White,Not rated
+New Delhi,"North Indian, Chinese, Fast Food",1.0,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+Gurgaon,"Cafe, Bakery, Desserts",1.0,Indian Rupees(Rs.),Yes,Yes,No,No,1.0,Green,Very Good
+New Delhi,"North Indian, Chinese",0.4444444444444444,Indian Rupees(Rs.),No,Yes,No,No,0.0,Orange,Average
+New Delhi,"North Indian, South Indian, Fast Food",0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Gurgaon,"North Indian, Fast Food",0.7777777777777777,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+New Delhi,North Indian,0.7777777777777777,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+Noida,"Fast Food, Street Food",0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"Raw Meats, North Indian, Fast Food",0.2222222222222222,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Noida,"North Indian, Mughlai, Chinese",1.0,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+New Delhi,"Ice Cream, Desserts",0.33333333333333326,Indian Rupees(Rs.),No,Yes,No,No,0.0,Orange,Average
+Gurgaon,Bakery,0.33333333333333326,Indian Rupees(Rs.),No,Yes,No,No,0.0,White,Not rated
+New Delhi,"Chinese, North Indian",1.0,Indian Rupees(Rs.),No,Yes,No,No,1.0,Yellow,Good
+Gurgaon,Chinese,0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Faridabad,"Fast Food, Chinese, Italian",0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+Quezon City,"Filipino, Mexican",1.0,Botswana Pula(P),No,No,No,No,1.0,Dark Green,Excellent
+New Delhi,Mithai,0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"Ice Cream, Desserts",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Bangalore,"North Indian, European, Mediterranean",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Green,Very Good
+Savannah,American,0.0,Dollar($),No,No,No,No,1.0,Green,Very Good
+New Delhi,Italian,1.0,Indian Rupees(Rs.),Yes,Yes,No,No,1.0,Yellow,Good
+Faridabad,"North Indian, Chinese",0.6666666666666667,Indian Rupees(Rs.),No,No,No,No,1.0,White,Not rated
+New Delhi,Fast Food,0.0,Indian Rupees(Rs.),No,Yes,No,No,0.0,Orange,Average
+Bras�_lia,"American, Grill",0.0,Brazilian Real(R$),No,No,No,No,1.0,Green,Very Good
+New Delhi,"Desserts, Ice Cream",0.0,Indian Rupees(Rs.),No,Yes,No,No,0.0,Yellow,Good
+��stanbul,Restaurant Cafe,0.0,Turkish Lira(TL),No,No,No,No,1.0,Green,Very Good
+New Delhi,"North Indian, Chinese",0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Faridabad,"Fast Food, Desserts, Ice Cream, Beverages",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+New Delhi,Cafe,0.4444444444444444,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,Fast Food,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Gurgaon,"Gujarati, Rajasthani",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Orange,Average
+Gurgaon,Bakery,1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Yellow,Good
+New Delhi,Cafe,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Green,Very Good
+Bangalore,"Continental, American",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Dark Green,Excellent
+Vernonia,"Coffee and Tea, Mediterranean",0.0,Dollar($),No,No,No,No,0.0,Green,Very Good
+New Delhi,South Indian,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,Cafe,0.4444444444444444,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Gurgaon,"Continental, North Indian, Mughlai, Chinese",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Orange,Average
+New Delhi,"Street Food, North Indian",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Yellow,Good
+New Delhi,"North Indian, Mughlai",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Dark Green,Excellent
+Gurgaon,"Burmese, Chinese, Thai",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+Gurgaon,"Japanese, Chinese, Thai",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Yellow,Good
+Ludhiana,"North Indian, Chinese, Continental",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Yellow,Good
+Gurgaon,"North Indian, Chinese",0.7777777777777777,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+New Delhi,Cafe,0.4444444444444444,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Noida,Ice Cream,0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"Chinese, North Indian, Continental, Italian",1.0,Indian Rupees(Rs.),Yes,Yes,No,No,1.0,Orange,Average
+New Delhi,North Indian,0.7777777777777777,Indian Rupees(Rs.),No,No,No,No,1.0,White,Not rated
+Noida,"North Indian, Chinese, Mughlai",0.7777777777777777,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+New Delhi,North Indian,0.4444444444444444,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,North Indian,0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Gurgaon,Street Food,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"South Indian, North Indian",0.7777777777777777,Indian Rupees(Rs.),No,No,No,No,1.0,Yellow,Good
+New Delhi,"Italian, Continental, European, Cafe",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Dark Green,Excellent
+Noida,"Mediterranean, Italian, Continental, Spanish, North Indian",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Orange,Average
+New Delhi,"Cafe, Continental, Italian, Fast Food",1.0,Indian Rupees(Rs.),Yes,Yes,No,No,1.0,Yellow,Good
+New Delhi,"North Indian, Mughlai",0.4444444444444444,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Gurgaon,"Tea, Fast Food",0.0,Indian Rupees(Rs.),No,Yes,No,No,0.0,Red,Poor
+New Delhi,"Ice Cream, Desserts",0.0,Indian Rupees(Rs.),No,Yes,No,No,0.0,Orange,Average
+New Delhi,North Indian,0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"Mithai, Street Food, Fast Food",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,Cafe,0.4444444444444444,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,Cafe,1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+New Delhi,"Italian, French, European, Cafe",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Yellow,Good
+New Delhi,North Indian,0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,White,Not rated
+New Delhi,North Indian,0.8888888888888888,Indian Rupees(Rs.),No,No,No,No,1.0,Yellow,Good
+Indore,"North Indian, Chinese, Italian",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Green,Very Good
+New Delhi,"North Indian, Mughlai, Chinese",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+New Delhi,Finger Food,1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Orange,Average
+Noida,"Fast Food, Italian",0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+Noida,"Bakery, Desserts",0.11111111111111105,Indian Rupees(Rs.),No,Yes,No,No,0.0,Orange,Average
+Noida,"North Indian, Mughlai",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Orange,Average
+Noida,"Fast Food, North Indian",0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"Ice Cream, Desserts",0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,Yellow,Good
+New Delhi,"Chinese, Fast Food",0.33333333333333326,Indian Rupees(Rs.),No,Yes,No,No,0.0,Yellow,Good
+New Delhi,"North Indian, Mughlai",0.7777777777777777,Indian Rupees(Rs.),No,No,No,No,1.0,Yellow,Good
+Noida,"South Indian, North Indian, Chinese",0.7777777777777777,Indian Rupees(Rs.),No,Yes,No,No,1.0,Red,Poor
+Noida,Chinese,0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,North Indian,1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+Gurgaon,"Mughlai, Pakistani, North Indian",1.0,Indian Rupees(Rs.),Yes,Yes,No,No,1.0,Yellow,Good
+Noida,North Indian,0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"Pizza, Fast Food",1.0,Indian Rupees(Rs.),No,Yes,No,No,1.0,Yellow,Good
+Sandton,Mexican,0.0,Rand(R),No,No,No,No,1.0,Green,Very Good
+Edinburgh,"British, Scottish, Seafood",0.0,Pounds(��),Yes,No,No,No,1.0,Green,Very Good
+New Delhi,"Bakery, Desserts, Fast Food",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"Malaysian, Indonesian",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Green,Very Good
+Noida,"North Indian, Chinese",0.7777777777777777,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+New Delhi,Desserts,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Noida,Fast Food,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"Chinese, North Indian",0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"North Indian, Mediterranean, Asian",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Yellow,Good
+New Delhi,"North Indian, Chinese",0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+Noida,"Bakery, Fast Food",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Noida,"Chinese, North Indian, Fast Food",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"Burger, Fast Food",0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,Yellow,Good
+New Delhi,"North Indian, Chinese",0.6666666666666667,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+New Delhi,"Bakery, Fast Food",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Yellow,Good
+New Delhi,"North Indian, Chinese, Mughlai, Italian",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Yellow,Good
+New Delhi,"North Indian, Chinese, Mughlai",0.5555555555555556,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+New Delhi,"Continental, North Indian, European, Asian",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Green,Very Good
+New Delhi,"Bakery, Desserts",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"North Indian, Chinese",0.0,Indian Rupees(Rs.),No,Yes,No,No,0.0,Orange,Average
+New Delhi,Chinese,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Gurgaon,"Bakery, Desserts",0.7777777777777777,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+New Delhi,"North Indian, Mughlai",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+Goa,"Goan, Seafood, Chinese",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Green,Very Good
+New Delhi,"Fast Food, Burger",0.5555555555555556,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+Noida,Chinese,0.2222222222222222,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"Finger Food, Continental, Italian",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Yellow,Good
+New Delhi,"North Indian, Chinese",0.7777777777777777,Indian Rupees(Rs.),No,Yes,No,No,1.0,Yellow,Good
+New Delhi,"Bakery, Fast Food, Beverages",0.0,Indian Rupees(Rs.),No,Yes,No,No,0.0,Orange,Average
+New Delhi,"North Indian, Chinese",0.4444444444444444,Indian Rupees(Rs.),No,Yes,No,No,0.0,Orange,Average
+Sharjah,South Indian,0.0,Emirati Diram(AED),No,Yes,No,No,1.0,Yellow,Good
+New Delhi,North Indian,1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Yellow,Good
+New Delhi,Street Food,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Yellow,Good
+New Delhi,Mughlai,0.2222222222222222,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"Chinese, Japanese, Thai",1.0,Indian Rupees(Rs.),Yes,Yes,No,No,1.0,Yellow,Good
+Kochi,Cafe,0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,Green,Very Good
+Noida,"Chinese, Fast Food",0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Gurgaon,"American, Fast Food, Salad, Healthy Food",0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+New Delhi,"Burger, Fast Food",0.5555555555555556,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+Tampa Bay,"BBQ, Caribbean, Seafood",0.0,Dollar($),No,No,No,No,1.0,Dark Green,Excellent
+New Delhi,North Indian,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Bhopal,"Fast Food, Mexican, Tex-Mex",0.2222222222222222,Indian Rupees(Rs.),No,No,No,No,1.0,Yellow,Good
+Varanasi,"North Indian, Mughlai",0.7777777777777777,Indian Rupees(Rs.),No,No,No,No,1.0,Yellow,Good
+New Delhi,"Chinese, Biryani, North Indian",0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Faridabad,"Mithai, Street Food, Fast Food",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Noida,North Indian,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,Asian,1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Orange,Average
+New Delhi,"North Indian, Continental, Mughlai, Asian",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Green,Very Good
+Faridabad,"North Indian, Chinese, Mughlai",0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Gurgaon,Beverages,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"North Indian, Mughlai, Chinese, Bakery",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Yellow,Good
+New Delhi,Finger Food,1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,White,Not rated
+Noida,"South Indian, North Indian, Chinese",0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+Gurgaon,North Indian,1.0,Indian Rupees(Rs.),Yes,Yes,No,No,1.0,Yellow,Good
+New Delhi,"North Indian, Chinese",0.5555555555555556,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+New Delhi,"North Indian, South Indian",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"Chinese, North Indian, Mughlai",1.0,Indian Rupees(Rs.),Yes,Yes,No,No,1.0,Orange,Average
+New Delhi,"Fast Food, Burger",0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+New Delhi,"Chinese, Thai",0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,Yellow,Good
+Aurangabad,"North Indian, Chinese, South Indian, Fast Food",0.4444444444444444,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+New Delhi,"North Indian, Mughlai",0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"Desserts, Fast Food",0.4444444444444444,Indian Rupees(Rs.),No,Yes,No,No,0.0,Green,Very Good
+Noida,Bakery,1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+Ghaziabad,Chinese,0.7777777777777777,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+Gurgaon,"North Indian, Chinese, Street Food, Fast Food",0.5555555555555556,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+New Delhi,Cafe,1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Yellow,Good
+New Delhi,"Pizza, Fast Food",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+Gurgaon,"North Indian, Mughlai",1.0,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+Mysore,"Chinese, Thai",0.6666666666666667,Indian Rupees(Rs.),No,No,No,No,1.0,Yellow,Good
+New Delhi,"North Indian, Mughlai, Chinese",0.5555555555555556,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+Boise,"European, Spanish",0.0,Dollar($),No,No,No,No,0.0,Green,Very Good
+New Delhi,South Indian,0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,Ice Cream,0.11111111111111105,Indian Rupees(Rs.),No,Yes,No,No,0.0,Orange,Average
+Gurgaon,South Indian,0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Gurgaon,"Bakery, Fast Food",0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,Cafe,0.4444444444444444,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Gurgaon,"Burger, Fast Food, Chinese",0.11111111111111105,Indian Rupees(Rs.),No,Yes,No,No,0.0,Yellow,Good
+New Delhi,"Asian, Chinese",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+New Delhi,"Continental, Chinese, North Indian",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Orange,Average
+New Delhi,North Indian,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Gurgaon,North Indian,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"Bakery, Fast Food",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,Cafe,0.4444444444444444,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"South Indian, Fast Food",0.33333333333333326,Indian Rupees(Rs.),No,Yes,No,No,0.0,Yellow,Good
+Pretoria,"Street Food, Continental, Burger, Grill",0.0,Rand(R),No,No,No,No,1.0,Yellow,Good
+New Delhi,Fast Food,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"North Indian, Fast Food, Chinese",0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Waterloo,"Coffee and Tea, Desserts, Beverages",0.0,Dollar($),No,No,No,No,0.0,Yellow,Good
+New Delhi,"Bakery, Desserts",0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,Yellow,Good
+New Delhi,"Pizza, Fast Food",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Red,Poor
+New Delhi,"North Indian, Italian, Chinese",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Green,Very Good
+Tagaytay City,Filipino,1.0,Botswana Pula(P),Yes,No,No,No,1.0,Dark Green,Excellent
+New Delhi,"Italian, Fast Food",1.0,Indian Rupees(Rs.),No,Yes,No,No,1.0,Yellow,Good
+Noida,Chinese,0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Noida,North Indian,0.4444444444444444,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,Fast Food,0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Noida,"Chinese, North Indian",0.5555555555555556,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+New Delhi,"North Indian, Chinese",0.5555555555555556,Indian Rupees(Rs.),No,Yes,No,No,1.0,Yellow,Good
+New Delhi,"Mithai, Street Food",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Colombo,"American, Fast Food, Steak, Beverages",1.0,Sri Lankan Rupee(LKR),No,No,No,No,1.0,Green,Very Good
+New Delhi,Mithai,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"Desserts, Ice Cream, Fast Food",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Faridabad,"North Indian, Chinese, Mughlai",0.6666666666666667,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+New Delhi,"Continental, North Indian, Chinese, Mughlai, Asian",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Orange,Average
+New Delhi,"Fast Food, Street Food",0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"North Indian, Chinese, South Indian",0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+New Delhi,"North Indian, South Indian, Chinese, Fast Food",0.6666666666666667,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+New Delhi,"Street Food, North Indian, South Indian, Mithai",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Yellow,Good
+Cedar Rapids/Iowa City,"American, Breakfast, Burger",0.0,Dollar($),No,No,No,No,1.0,Green,Very Good
+New Delhi,"Fast Food, Raw Meats",0.2222222222222222,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Noida,"Desserts, Ice Cream",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"Bakery, Chinese",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"Raw Meats, North Indian, Fast Food",0.2222222222222222,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"Malaysian, Thai, Kerala, Vietnamese, Sri Lankan",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Green,Very Good
+New Delhi,North Indian,0.33333333333333326,Indian Rupees(Rs.),No,Yes,No,No,0.0,Orange,Average
+New Delhi,"Pizza, Fast Food",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Red,Poor
+New Delhi,South Indian,0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Noida,"North Indian, Mughlai",1.0,Indian Rupees(Rs.),No,Yes,No,No,1.0,Yellow,Good
+New Delhi,"South Indian, North Indian, Chinese",0.8888888888888888,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+Noida,Mithai,0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,White,Not rated
+New Delhi,"South Indian, North Indian",1.0,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+Aurangabad,"Mughlai, Biryani",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+Ludhiana,"Cafe, Bakery, Desserts",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Green,Very Good
+New Delhi,"Desserts, Beverages",0.2222222222222222,Indian Rupees(Rs.),No,Yes,No,No,0.0,Green,Very Good
+Gurgaon,"Beverages, Juices",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Birmingham,Italian,0.0,Pounds(��),No,No,No,No,1.0,Green,Very Good
+New Delhi,"Fast Food, North Indian, South Indian",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,Chinese,0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"South Indian, North Indian, Chinese",1.0,Indian Rupees(Rs.),Yes,Yes,No,No,1.0,Yellow,Good
+Pretoria,"European, South African, Steak",0.4444444444444444,Rand(R),No,No,No,No,1.0,Dark Green,Excellent
+New Delhi,"Cafe, Beverages",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Green,Very Good
+Gurgaon,North Indian,0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+New Delhi,"Fast Food, Street Food",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"North Indian, South Indian, Chinese",0.2222222222222222,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Manchester,Italian,0.0,Pounds(��),No,No,No,No,1.0,Yellow,Good
+New Delhi,"North Indian, Chinese",0.7777777777777777,Indian Rupees(Rs.),No,Yes,No,No,1.0,Yellow,Good
+New Delhi,North Indian,0.2222222222222222,Indian Rupees(Rs.),No,Yes,No,No,0.0,Orange,Average
+New Delhi,North Indian,0.2222222222222222,Indian Rupees(Rs.),No,No,No,No,0.0,Yellow,Good
+New Delhi,"North Indian, Chinese, Fast Food",0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,White,Not rated
+Gurgaon,Cafe,0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"Chinese, Fast Food",0.33333333333333326,Indian Rupees(Rs.),No,Yes,No,No,0.0,Green,Very Good
+New Delhi,"North Indian, Chinese",0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"North Indian, Chinese, Cafe",1.0,Indian Rupees(Rs.),Yes,Yes,No,No,1.0,Green,Very Good
+New Delhi,"Raw Meats, North Indian, Fast Food",0.2222222222222222,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"Raw Meats, Fast Food, North Indian",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,Beverages,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"Fast Food, North Indian, South Indian, Chinese",0.2222222222222222,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Savannah,"Coffee and Tea, Desserts",0.0,Dollar($),No,No,No,No,0.0,Green,Very Good
+New Delhi,"Bakery, Desserts",0.2222222222222222,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Chennai,"Mexican, American, Tex-Mex, Burger",1.0,Indian Rupees(Rs.),Yes,Yes,No,No,1.0,Dark Green,Excellent
+New Delhi,Cafe,0.7777777777777777,Indian Rupees(Rs.),No,No,No,No,1.0,Yellow,Good
+New Delhi,"Fast Food, Beverages",0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,Green,Very Good
+Chennai,"Cafe, European",0.4444444444444444,Indian Rupees(Rs.),No,Yes,No,No,0.0,Green,Very Good
+Noida,"North Indian, Chinese",0.5555555555555556,Indian Rupees(Rs.),No,Yes,No,No,1.0,White,Not rated
+New Delhi,Cafe,0.4444444444444444,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"Bakery, Desserts",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+New Delhi,"North Indian, Mughlai, Chinese",0.6666666666666667,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+New Delhi,Chinese,1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Green,Very Good
+Noida,"North Indian, Chinese",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Orange,Average
+New Delhi,"Chinese, North Indian",0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Gurgaon,"North Indian, Fast Food",0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+New Delhi,Chinese,0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+Noida,"Bakery, Fast Food, Desserts",0.2222222222222222,Indian Rupees(Rs.),No,Yes,No,No,0.0,White,Not rated
+New Delhi,Street Food,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Gurgaon,"Italian, Pizza",1.0,Indian Rupees(Rs.),No,Yes,No,No,1.0,Yellow,Good
+Allahabad,"Desserts, Fast Food",0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,Yellow,Good
+New Delhi,North Indian,0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,Yellow,Good
+New Delhi,"North Indian, Mughlai",0.8888888888888888,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+New Delhi,Mughlai,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Yellow,Good
+Gurgaon,"Chinese, Asian",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Yellow,Good
+New Delhi,Mughlai,0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,Fast Food,0.2222222222222222,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"North Indian, South Indian, Chinese, Street Food, Mithai",0.6666666666666667,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+New Delhi,"North Indian, Mughlai",1.0,Indian Rupees(Rs.),No,Yes,No,No,1.0,Yellow,Good
+Gurgaon,"Biryani, Pizza, Fast Food, Healthy Food",0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"Chinese, Fast Food",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"North Indian, Mughlai, Chinese",0.6666666666666667,Indian Rupees(Rs.),No,No,No,No,1.0,White,Not rated
+New Delhi,"North Indian, Chinese, Italian, Mediterranean",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Yellow,Good
+New Delhi,"North Indian, Chinese",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Gurgaon,"Healthy Food, European, Continental, Salad",1.0,Indian Rupees(Rs.),No,Yes,No,No,1.0,Yellow,Good
+Gurgaon,"Chinese, Tibetan",0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,Japanese,1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Orange,Average
+Noida,North Indian,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Gurgaon,"North Indian, Chinese, Fast Food",0.7777777777777777,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+Gurgaon,Ice Cream,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,Cafe,0.5555555555555556,Indian Rupees(Rs.),No,Yes,No,No,1.0,Yellow,Good
+New Delhi,"Pizza, Fast Food",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+Rest of Hawaii,Japanese,0.0,Dollar($),No,No,No,No,0.0,Dark Green,Excellent
+New Delhi,"Naga, Tibetan",0.5555555555555556,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+New Delhi,Fast Food,0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Pensacola,"Italian, Mediterranean, Pizza",0.0,Dollar($),No,No,No,No,1.0,Green,Very Good
+New Delhi,"North Indian, Chinese, Mughlai",1.0,Indian Rupees(Rs.),Yes,Yes,No,No,1.0,Orange,Average
+Des Moines,"Asian, Sushi, Thai",0.0,Dollar($),No,No,No,No,1.0,Green,Very Good
+Guwahati,"Cafe, North Indian, Italian",0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,Green,Very Good
+New Delhi,North Indian,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"Continental, Fast Food, North Indian, Asian",1.0,Indian Rupees(Rs.),Yes,Yes,No,No,1.0,Yellow,Good
+Noida,Bakery,0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Gurgaon,Mithai,0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,White,Not rated
+New Delhi,Street Food,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"North Indian, Mughlai, Chinese",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+New Delhi,North Indian,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"North Indian, Mughlai, Chinese",0.8888888888888888,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+Faridabad,"Italian, Fast Food",0.6666666666666667,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+Davenport,Italian,0.0,Dollar($),No,No,No,No,1.0,Green,Very Good
+New Delhi,"American, Fast Food, Salad, Healthy Food",0.5555555555555556,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+New Delhi,"North Indian, South Indian, Chinese",0.6666666666666667,Indian Rupees(Rs.),No,No,No,No,1.0,Yellow,Good
+Vadodara,South Indian,0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,1.0,Dark Green,Excellent
+New Delhi,North Indian,0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Gurgaon,"North Indian, Chinese",0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,North Indian,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Chennai,Italian,0.2222222222222222,Indian Rupees(Rs.),No,No,No,No,0.0,Dark Green,Excellent
+New Delhi,"Continental, Healthy Food",1.0,Indian Rupees(Rs.),No,Yes,No,No,1.0,Yellow,Good
+Noida,"Bakery, Desserts",0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Gurgaon,Chinese,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"North Indian, Chinese, Continental",0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,Yellow,Good
+New Delhi,"North Indian, Continental",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Orange,Average
+New Delhi,"North Indian, Mexican, Italian, Continental",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Yellow,Good
+Vadodara,Italian,1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Green,Very Good
+Auckland,"Taiwanese, Street Food",0.0,NewZealand($),No,No,No,No,1.0,Green,Very Good
+New Delhi,"Bakery, Fast Food",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"American, Fast Food, Salad, Healthy Food",0.5555555555555556,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+Athens,"American, Italian, Pizza",0.0,Dollar($),No,No,No,No,1.0,Green,Very Good
+New Delhi,Street Food,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Yellow,Good
+New Delhi,"North Indian, Continental, Lebanese",1.0,Indian Rupees(Rs.),Yes,Yes,No,No,1.0,Yellow,Good
+Noida,North Indian,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"North Indian, Mughlai, Chinese",0.8888888888888888,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+Gurgaon,"South Indian, North Indian, Chinese",1.0,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+Albany,"American, Breakfast, Diner",0.0,Dollar($),No,No,No,No,0.0,Orange,Average
+Lakeview,"Burger, Desserts, Sandwich",0.0,Dollar($),No,No,No,No,0.0,Yellow,Good
+New Delhi,"Fast Food, Pizza",0.7777777777777777,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+New Delhi,North Indian,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Agra,"North Indian, Mughlai",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Yellow,Good
+New Delhi,"North Indian, Mughlai, Chinese",0.6666666666666667,Indian Rupees(Rs.),No,No,No,No,1.0,White,Not rated
+New Delhi,"Chinese, Tibetan, Fast Food",0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+Noida,Street Food,0.4444444444444444,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Gurgaon,"Pizza, Fast Food",1.0,Indian Rupees(Rs.),Yes,Yes,No,No,1.0,Green,Very Good
+Gurgaon,Lebanese,0.5555555555555556,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+New Delhi,"Mithai, Street Food",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Colombo,"Desserts, Bakery",1.0,Sri Lankan Rupee(LKR),No,No,No,No,1.0,Green,Very Good
+New Delhi,"Chinese, North Indian",0.7777777777777777,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+New Delhi,"Chinese, Fast Food",0.11111111111111105,Indian Rupees(Rs.),No,Yes,No,No,0.0,Orange,Average
+Macon,"American, Chinese, Sushi",0.0,Dollar($),No,No,No,No,1.0,Yellow,Good
+New Delhi,Bakery,0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,White,Not rated
+Noida,Bakery,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"Fast Food, Burger",0.5555555555555556,Indian Rupees(Rs.),No,Yes,No,No,1.0,Yellow,Good
+New Delhi,"Bakery, Desserts",0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Kanpur,"North Indian, Chinese",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Yellow,Good
+Surat,Pizza,1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Green,Very Good
+Singapore,French,0.14444444444444438,Dollar($),No,No,No,No,1.0,Yellow,Good
+New Delhi,"Cafe, Fast Food, Desserts",0.4444444444444444,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Faridabad,"Pizza, Fast Food",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+Amritsar,"North Indian, South Indian, Chinese, Fast Food",0.7777777777777777,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+Pasay City,"European, Asian, Indian",1.0,Botswana Pula(P),Yes,No,No,No,1.0,Dark Green,Excellent
+Albany,"Seafood, Tapas, Bar Food",0.0,Dollar($),No,No,No,No,1.0,Yellow,Good
+New Delhi,Biryani,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Gurgaon,Bengali,0.6666666666666667,Indian Rupees(Rs.),No,Yes,No,No,1.0,Yellow,Good
+New Delhi,Mithai,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"North Indian, Chinese",0.8888888888888888,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+New Delhi,Mughlai,0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"Continental, North Indian, Italian",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Orange,Average
+Jakarta,"Seafood, Western",1.0,Indonesian Rupiah(IDR),No,No,No,No,1.0,Orange,Average
+Bras�_lia,Italian,0.0,Brazilian Real(R$),No,No,No,No,1.0,Green,Very Good
+New Delhi,"North Indian, Mughlai, Chinese",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,White,Not rated
+Gurgaon,North Indian,0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,South Indian,0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,White,Not rated
+New Delhi,"Bakery, Desserts",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"Finger Food, Italian, Middle Eastern",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Yellow,Good
+New Delhi,"South Indian, North Indian",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Gurgaon,"Italian, Fast Food",0.5555555555555556,Indian Rupees(Rs.),No,Yes,No,No,1.0,Yellow,Good
+Vineland Station,"Italian, Mediterranean, Pizza",0.0,Dollar($),No,No,No,No,1.0,Green,Very Good
+New Delhi,"North Indian, South Indian, Chinese, Fast Food",0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"Continental, Fast Food",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Orange,Average
+New Delhi,"Mithai, Street Food",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"North Indian, Continental, Italian",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Yellow,Good
+New Delhi,"Ice Cream, Desserts",0.8888888888888888,Indian Rupees(Rs.),No,Yes,No,No,1.0,Yellow,Good
+Gurgaon,"North Indian, Mediterranean, European, Asian, Chinese, Pizza",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Yellow,Good
+New Delhi,"Bakery, Desserts",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,Chinese,0.4444444444444444,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,Fast Food,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"Cafe, Chinese, Italian",0.5555555555555556,Indian Rupees(Rs.),No,Yes,No,No,1.0,Yellow,Good
+Patna,"Biryani, Mughlai",0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,Yellow,Good
+Noida,Fast Food,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Yellow,Good
+New Delhi,"American, Fast Food",0.5555555555555556,Indian Rupees(Rs.),No,Yes,No,No,1.0,Yellow,Good
+New Delhi,Chinese,0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+New Delhi,"Pizza, Fast Food",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+New Delhi,"Mithai, Street Food",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Gurgaon,"North Indian, Fast Food",0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"North Indian, Chinese, South Indian",0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+Hyderabad,"Mexican, American, Tex-Mex, Burger",1.0,Indian Rupees(Rs.),No,Yes,No,No,1.0,Dark Green,Excellent
+New Delhi,Chinese,0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"Desserts, Fast Food, Ice Cream",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Green,Very Good
+New Delhi,"Ice Cream, Beverages, Fast Food",0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"Mithai, Street Food",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,Beverages,0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Mangalore,"Pizza, Italian",0.7777777777777777,Indian Rupees(Rs.),No,No,No,No,1.0,Yellow,Good
+Noida,"North Indian, Chinese, Fast Food",0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Dubai,"Cafe, Burger",0.0,Emirati Diram(AED),No,No,No,No,1.0,Green,Very Good
+New Delhi,Mithai,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Noida,North Indian,0.4444444444444444,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"Cafe, Italian, North Indian",0.7777777777777777,Indian Rupees(Rs.),No,Yes,No,No,1.0,Yellow,Good
+Cape Town,"Burger, American, Grill",0.0444444444444444,Rand(R),No,No,No,No,1.0,Green,Very Good
+Faridabad,"North Indian, Mughlai",0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"Italian, European, Cafe",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Green,Very Good
+Noida,"Italian, Chinese",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"North Indian, Chinese, Mughlai",1.0,Indian Rupees(Rs.),Yes,Yes,No,No,1.0,Orange,Average
+Gurgaon,Chinese,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Hyderabad,"North Indian, Continental, Italian",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Green,Very Good
+New Delhi,"Fast Food, Burger",0.5555555555555556,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+Gurgaon,"Ice Cream, Desserts",0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,Cafe,0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,Green,Very Good
+Fernley,Mexican,0.0,Dollar($),No,No,No,No,0.0,Yellow,Good
+Gurgaon,"North Indian, Street Food",0.11111111111111105,Indian Rupees(Rs.),No,Yes,No,No,0.0,Yellow,Good
+New Delhi,Bakery,0.11111111111111105,Indian Rupees(Rs.),No,Yes,No,No,0.0,Orange,Average
+New Delhi,Bakery,0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"American, Continental, Italian, North Indian, Asian",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Yellow,Good
+New Delhi,Fast Food,0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,White,Not rated
+New Delhi,Street Food,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Yellow,Good
+Sharjah,"American, Mexican",0.0,Emirati Diram(AED),No,Yes,No,No,1.0,Yellow,Good
+Gurgaon,"Ice Cream, Desserts",0.2222222222222222,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Gurgaon,"Continental, North Indian",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Orange,Average
+Noida,"North Indian, Mughlai, Chinese",0.6666666666666667,Indian Rupees(Rs.),No,No,No,No,1.0,White,Not rated
+New Delhi,"North Indian, Chinese, Fast Food",0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Dubai,"Fast Food, Burger",0.0,Emirati Diram(AED),No,No,No,No,1.0,Green,Very Good
+New Delhi,North Indian,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,Street Food,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,Bakery,0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,Cafe,0.4444444444444444,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"Japanese, Sushi",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Yellow,Good
+New Delhi,Beverages,0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Manchester,"European, Mediterranean, Contemporary",0.0,Pounds(��),Yes,No,No,No,1.0,Green,Very Good
+New Delhi,"Desserts, Beverages",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Green,Very Good
+New Delhi,Street Food,0.0,Indian Rupees(Rs.),No,Yes,No,No,0.0,Yellow,Good
+New Delhi,"North Indian, Fast Food, Mughlai",0.4444444444444444,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"Bakery, Fast Food",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"Chinese, Thai, Continental, Fast Food, North Indian",1.0,Indian Rupees(Rs.),Yes,Yes,No,No,1.0,Yellow,Good
+New Delhi,Pizza,0.7777777777777777,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+Ludhiana,"Italian, Continental, Mexican, Lebanese",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Green,Very Good
+New Delhi,Lebanese,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+��stanbul,Bar Food,0.0,Turkish Lira(TL),No,No,No,No,1.0,Dark Green,Excellent
+Noida,"North Indian, Chinese, South Indian",0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+New Delhi,"North Indian, Mughlai, Chinese",0.7777777777777777,Indian Rupees(Rs.),No,Yes,Yes,No,1.0,Orange,Average
+New Delhi,Street Food,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Gurgaon,Cafe,1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Yellow,Good
+New Delhi,Chinese,1.0,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+New Delhi,Bakery,1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+Noida,"North Indian, Mughlai, Chinese",0.5555555555555556,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+Birmingham,"Greek, Mediterranean, Middle Eastern",0.0,Pounds(��),No,No,No,No,1.0,White,Not rated
+Gurgaon,"Japanese, Thai, Italian, Asian",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Yellow,Good
+New Delhi,"Pizza, Italian, Cafe",1.0,Indian Rupees(Rs.),No,Yes,No,No,1.0,Yellow,Good
+New Delhi,"North Indian, Italian, Chinese, Thai",1.0,Indian Rupees(Rs.),Yes,Yes,No,No,1.0,Orange,Average
+Gurgaon,North Indian,0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,White,Not rated
+Auckland,European,0.0,NewZealand($),No,No,No,No,1.0,Dark Green,Excellent
+New Delhi,North Indian,0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"North Indian, Chinese, Continental",1.0,Indian Rupees(Rs.),No,Yes,No,No,1.0,Green,Very Good
+New Delhi,"Cafe, Healthy Food, North Indian",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+New Delhi,North Indian,0.2222222222222222,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"North Indian, Fast Food",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Yellow,Good
+Phillip Island,"Breakfast, Coffee and Tea, Modern Australian",0.0,Dollar($),No,No,No,No,1.0,Yellow,Good
+Noida,"Finger Food, North Indian, Chinese",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Orange,Average
+Noida,Cafe,0.4444444444444444,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Gurgaon,Chinese,0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Gurgaon,"Fast Food, Beverages",0.4444444444444444,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"Chinese, North Indian",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Orange,Average
+Noida,"Continental, Fast Food, Italian",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Green,Very Good
+Noida,Cafe,0.4444444444444444,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,North Indian,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,North Indian,0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,Chinese,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,Biryani,0.7777777777777777,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+New Delhi,North Indian,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"North Indian, Mughlai, Chinese",0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+New Delhi,"Continental, Mexican, American, Italian, North Indian",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Yellow,Good
+New Delhi,"South Indian, Pizza, Chinese",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Gurgaon,"South Indian, Chinese",0.4444444444444444,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Gurgaon,North Indian,0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,North Indian,0.5555555555555556,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+New Delhi,"Desserts, Ice Cream",0.0,Indian Rupees(Rs.),No,Yes,No,No,0.0,Orange,Average
+Gurgaon,"North Indian, South Indian",0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Jakarta,"Japanese, Sushi, Ramen",1.0,Indonesian Rupiah(IDR),No,No,No,No,1.0,Green,Very Good
+New Delhi,"Continental, Asian, Italian, Mediterranean, Burger",1.0,Indian Rupees(Rs.),Yes,Yes,No,No,1.0,Yellow,Good
+New Delhi,"North Indian, Chinese, Continental, Italian",1.0,Indian Rupees(Rs.),Yes,Yes,No,No,1.0,Green,Very Good
+New Delhi,"North Indian, Chinese",0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"North Indian, Chinese",0.7777777777777777,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+New Delhi,"North Indian, Mughlai",0.2222222222222222,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Gurgaon,"Chinese, North Indian",0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"Fast Food, Chinese",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"North Indian, Beverages",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,North Indian,0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,Yellow,Good
+New Delhi,Cafe,1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Yellow,Good
+Gurgaon,"North Indian, Chinese, Mughlai",0.7777777777777777,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+Bhopal,Fast Food,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Dark Green,Excellent
+New Delhi,"American, Fast Food, Salad, Healthy Food",0.5555555555555556,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+New Delhi,Finger Food,0.7777777777777777,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+New Delhi,"Cafe, Pizza, Italian",1.0,Indian Rupees(Rs.),Yes,Yes,No,No,1.0,Yellow,Good
+New Delhi,"North Indian, Lebanese, European, Mexican",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Yellow,Good
+Abu Dhabi,"Pakistani, Afghani, Indian, Hyderabadi",0.0,Emirati Diram(AED),No,Yes,No,No,1.0,Green,Very Good
+New Delhi,"North Indian, Mughlai, Chinese",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Yellow,Good
+New Delhi,Chinese,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,North Indian,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Ghaziabad,Cafe,0.4444444444444444,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Gurgaon,Goan,1.0,Indian Rupees(Rs.),Yes,Yes,No,No,1.0,Green,Very Good
+Varanasi,North Indian,0.4444444444444444,Indian Rupees(Rs.),No,No,No,No,1.0,Yellow,Good
+New Delhi,"Ice Cream, Desserts",0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Gurgaon,"Mughlai, Lucknowi, Awadhi",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Orange,Average
+Mysore,"Continental, Chinese, North Indian",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+New Delhi,"Pizza, Fast Food",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Gurgaon,"Cafe, Fast Food",0.0,Indian Rupees(Rs.),No,Yes,No,No,0.0,Yellow,Good
+New Delhi,"Middle Eastern, Mediterranean, North Indian",1.0,Indian Rupees(Rs.),Yes,Yes,No,No,1.0,Yellow,Good
+New Delhi,"Cafe, Bakery, Italian",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Green,Very Good
+Noida,"North Indian, Chinese",1.0,Indian Rupees(Rs.),Yes,Yes,No,No,1.0,Green,Very Good
+New Delhi,Mughlai,0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Gurgaon,"South Indian, North Indian",0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"Pizza, North Indian, Continental",1.0,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+New Delhi,Desserts,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Yellow,Good
+Noida,"North Indian, Chinese",1.0,Indian Rupees(Rs.),Yes,Yes,No,No,1.0,Red,Poor
+New Delhi,"North Indian, Mughlai",0.5555555555555556,Indian Rupees(Rs.),No,Yes,No,No,1.0,Yellow,Good
+Surat,"Chinese, Thai, Asian",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Yellow,Good
+Ahmedabad,Continental,1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Green,Very Good
+Gurgaon,"Raw Meats, North Indian, Chinese",0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Gurgaon,"Chinese, Seafood, Japanese",1.0,Indian Rupees(Rs.),Yes,Yes,No,No,1.0,Orange,Average
+Coimbatore,"Bakery, Desserts",0.2222222222222222,Indian Rupees(Rs.),No,Yes,No,No,1.0,Dark Green,Excellent
+New Delhi,Bakery,0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,White,Not rated
+Mumbai,Pizza,1.0,Indian Rupees(Rs.),No,Yes,No,No,1.0,Dark Green,Excellent
+New Delhi,Fast Food,0.2222222222222222,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,North Indian,0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"Mithai, Street Food",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Coimbatore,"Continental, Chinese, Thai, Malaysian, North Indian",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Yellow,Good
+Gurgaon,North Indian,0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"Fast Food, Pizza, Burger",0.5555555555555556,Indian Rupees(Rs.),No,Yes,No,No,1.0,Yellow,Good
+Faridabad,North Indian,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"Street Food, Chinese, North Indian, Mithai",0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,Yellow,Good
+Noida,Cafe,0.8888888888888888,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+Gurgaon,"North Indian, Chinese",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,Chinese,0.2222222222222222,Indian Rupees(Rs.),No,Yes,No,No,0.0,Orange,Average
+New Delhi,"Mughlai, North Indian",0.8888888888888888,Indian Rupees(Rs.),No,Yes,No,No,1.0,Yellow,Good
+Secunderabad,"North Indian, Chinese",1.0,Indian Rupees(Rs.),Yes,Yes,No,No,1.0,Green,Very Good
+Noida,"Fast Food, Cafe, Italian, North Indian, Chinese",0.6666666666666667,Indian Rupees(Rs.),No,Yes,Yes,No,1.0,Orange,Average
+Noida,Beverages,0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,Yellow,Good
+New Delhi,"Chinese, North Indian, South Indian",0.6666666666666667,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+New Delhi,"Mithai, Street Food",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"Chinese, South Indian",0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"North Indian, Chinese",0.7777777777777777,Indian Rupees(Rs.),No,No,No,No,1.0,White,Not rated
+New Delhi,"Street Food, Mithai",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Yellow,Good
+New Delhi,"Raw Meats, North Indian, Fast Food",0.2222222222222222,Indian Rupees(Rs.),No,Yes,No,No,0.0,Orange,Average
+Tampa Bay,"Breakfast, Mexican",0.0,Dollar($),No,No,No,No,1.0,Dark Green,Excellent
+New Delhi,"Cafe, Tea",0.33333333333333326,Indian Rupees(Rs.),No,Yes,No,No,0.0,Yellow,Good
+New Delhi,"Mithai, North Indian, South Indian, Street Food",0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Colombo,"Continental, American",1.0,Sri Lankan Rupee(LKR),No,No,No,No,1.0,Green,Very Good
+New Delhi,Bakery,0.11111111111111105,Indian Rupees(Rs.),No,Yes,No,No,0.0,White,Not rated
+New Delhi,Chinese,0.7777777777777777,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+New Delhi,"North Indian, Chinese",1.0,Indian Rupees(Rs.),Yes,Yes,No,No,1.0,Orange,Average
+Noida,"American, Tex-Mex",1.0,Indian Rupees(Rs.),Yes,Yes,No,No,1.0,Yellow,Good
+New Delhi,"Italian, Mediterranean",1.0,Indian Rupees(Rs.),Yes,Yes,No,No,1.0,Yellow,Good
+New Delhi,"North Indian, Mughlai, Chinese",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Green,Very Good
+Pocatello,New American,0.0,Dollar($),No,No,No,No,1.0,Yellow,Good
+Sharjah,"Fast Food, Pizza",0.0,Emirati Diram(AED),No,No,No,No,1.0,Red,Poor
+Ranchi,"European, North Indian, Continental, Italian",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Yellow,Good
+New Delhi,South Indian,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"Desserts, Bakery, Fast Food",0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Gurgaon,"Bakery, Fast Food",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+New Delhi,"Street Food, South Indian, Mithai",0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"South Indian, Chinese",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Yellow,Good
+New Delhi,North Indian,0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,Finger Food,1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Orange,Average
+Ankara,Cafe,0.0,Turkish Lira(TL),No,No,No,No,1.0,Green,Very Good
+New Delhi,"Street Food, Fast Food",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Gurgaon,"Bakery, Mithai, Fast Food",0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"North Indian, South Indian, Chinese",0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Gurgaon,"Burger, American, Fast Food",1.0,Indian Rupees(Rs.),No,Yes,No,No,1.0,Green,Very Good
+New Delhi,Mithai,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,North Indian,0.0,Indian Rupees(Rs.),No,Yes,No,No,0.0,Orange,Average
+New Delhi,"Fast Food, North Indian, Chinese",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Orange,Average
+Sharjah,"Indian, North Indian, South Indian, Chinese",0.0,Emirati Diram(AED),No,Yes,No,No,1.0,Yellow,Good
+New Delhi,North Indian,0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"Kashmiri, North Indian, Mughlai, South Indian, Maharashtrian, Gujarati",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Green,Very Good
+Bras�_lia,"Brazilian, Cafe",0.0,Brazilian Real(R$),No,No,No,No,0.0,White,Not rated
+Noida,"Fast Food, Pizza",0.6666666666666667,Indian Rupees(Rs.),No,No,No,No,1.0,White,Not rated
+Pune,"North Indian, Chinese, Continental",1.0,Indian Rupees(Rs.),Yes,Yes,No,No,1.0,Green,Very Good
+Des Moines,Chinese,0.0,Dollar($),No,No,No,No,0.0,Green,Very Good
+New Delhi,"North Eastern, North Indian",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Orange,Average
+Davenport,"Japanese, Sushi",0.0,Dollar($),No,No,No,No,1.0,Green,Very Good
+New Delhi,Fast Food,0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Dehradun,"Mughlai, North Indian",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Green,Very Good
+Vizag,Fast Food,0.4444444444444444,Indian Rupees(Rs.),No,No,No,No,1.0,Yellow,Good
+New Delhi,Fast Food,0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Columbus,Chinese,0.0,Dollar($),No,No,No,No,1.0,Green,Very Good
+Valdosta,Italian,0.0,Dollar($),No,No,No,No,1.0,Yellow,Good
+Sioux City,"American, Desserts, Diner",0.0,Dollar($),No,No,No,No,0.0,Yellow,Good
+Gurgaon,"Mughlai, North Indian",0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+Gurgaon,"Chinese, Japanese, Sushi",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Dark Green,Excellent
+New Delhi,"Cafe, Tea",0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,Green,Very Good
+Noida,South Indian,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,North Indian,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Savannah,,0.0,Dollar($),No,No,No,No,0.0,Yellow,Good
+Noida,"Italian, Continental, North Indian, Chinese",1.0,Indian Rupees(Rs.),Yes,Yes,No,No,1.0,Orange,Average
+Gurgaon,"Chinese, Thai, North Indian, Japanese",1.0,Indian Rupees(Rs.),Yes,Yes,No,No,1.0,Yellow,Good
+New Delhi,Mughlai,0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Gurgaon,Bakery,0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"Bakery, Desserts",0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+New Delhi,North Indian,0.2222222222222222,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"Chinese, North Indian",0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"North Indian, Chinese, Mughlai",0.8888888888888888,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+New Delhi,"North Indian, Chinese",0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"Cafe, Italian",0.7777777777777777,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+New Delhi,North Indian,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,Fast Food,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"Fast Food, Chinese",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Noida,"American, Fast Food, Burger",0.5555555555555556,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+Dehradun,"Cafe, Chinese, Fast Food",0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,Green,Very Good
+Rio de Janeiro,Lebanese,0.0,Brazilian Real(R$),No,No,No,No,1.0,Green,Very Good
+Faridabad,Bakery,0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,Yellow,Good
+Gurgaon,"Chinese, Thai",0.5555555555555556,Indian Rupees(Rs.),No,Yes,No,No,1.0,Yellow,Good
+New Delhi,"Street Food, Chinese",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,Mithai,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Noida,"European, North Indian, Chinese",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Red,Poor
+New Delhi,"Burger, Fast Food",0.5555555555555556,Indian Rupees(Rs.),No,Yes,No,No,1.0,Yellow,Good
+Noida,Chinese,0.4444444444444444,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,Cafe,0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+New Delhi,"Mughlai, North Indian",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Yellow,Good
+New Delhi,North Indian,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,South Indian,0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,Yellow,Good
+New Delhi,North Indian,0.8888888888888888,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+Noida,North Indian,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Kanpur,"Chinese, Fast Food",0.6666666666666667,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+Gurgaon,"Mediterranean, Mexican, North Indian, American",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Green,Very Good
+Gurgaon,"North Indian, Greek, Mughlai",0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,Fast Food,0.4444444444444444,Indian Rupees(Rs.),No,Yes,No,No,0.0,Orange,Average
+New Delhi,"Fast Food, Chinese",0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Dalton,Italian,0.0,Dollar($),No,No,No,No,1.0,Yellow,Good
+Faridabad,"Fast Food, Chinese",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"North Indian, Italian, Continental",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Orange,Average
+Gurgaon,"Chinese, Fast Food",0.7777777777777777,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+New Delhi,North Indian,0.5555555555555556,Indian Rupees(Rs.),No,Yes,No,No,1.0,Yellow,Good
+Guwahati,"North Indian, Continental",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Green,Very Good
+New Delhi,"North Indian, Italian, Continental, Chinese",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+Coimbatore,"North Indian, Chinese, Italian, Mexican",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Green,Very Good
+New Delhi,North Indian,0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Birmingham,Indian,0.0,Pounds(��),No,No,No,No,1.0,Green,Very Good
+New Delhi,Cafe,0.4444444444444444,Indian Rupees(Rs.),No,Yes,No,No,0.0,Orange,Average
+New Delhi,North Indian,0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+Allahabad,"Fast Food, American, Salad, Healthy Food",0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+Gurgaon,Chinese,0.7777777777777777,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+New Delhi,"European, Italian",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Yellow,Good
+New Delhi,"North Indian, European, Continental",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Yellow,Good
+Gurgaon,"Continental, North Indian, European, Finger Food",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Green,Very Good
+New Delhi,"Asian, Chinese",0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,White,Not rated
+Davenport,"Indian, Mediterranean, Middle Eastern",0.0,Dollar($),No,No,No,No,1.0,Dark Green,Excellent
+Kochi,"Cafe, Continental, Italian",1.0,Indian Rupees(Rs.),No,Yes,No,No,1.0,Green,Very Good
+Noida,Chinese,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,South Indian,0.4444444444444444,Indian Rupees(Rs.),No,Yes,No,No,0.0,Orange,Average
+New Delhi,North Indian,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Gurgaon,Fast Food,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Gurgaon,North Indian,0.5555555555555556,Indian Rupees(Rs.),No,Yes,No,No,1.0,Green,Very Good
+New Delhi,"Fast Food, Beverages",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Green,Very Good
+New Delhi,"North Indian, Mughlai",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+Noida,"Raw Meats, North Indian, Fast Food",0.2222222222222222,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Dalton,"American, BBQ, Southern",0.0,Dollar($),No,No,No,No,1.0,Yellow,Good
+Guwahati,"Cafe, Continental, Chinese",0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,Green,Very Good
+New Delhi,North Indian,1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Orange,Average
+Ludhiana,"North Indian, Chinese, Fast Food",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Yellow,Good
+Gurgaon,"North Indian, Mughlai",0.7777777777777777,Indian Rupees(Rs.),No,Yes,No,No,1.0,Yellow,Good
+Noida,"North Indian, Mughlai",1.0,Indian Rupees(Rs.),Yes,Yes,No,No,1.0,Orange,Average
+New Delhi,North Indian,1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Yellow,Good
+Gurgaon,"Cafe, Bakery",0.7777777777777777,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+New Delhi,"North Indian, Italian, Continental, Asian",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Green,Very Good
+Noida,"Chinese, Thai, Fast Food",0.7777777777777777,Indian Rupees(Rs.),No,Yes,No,No,1.0,White,Not rated
+New Delhi,"Cafe, Bakery",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Gurgaon,"Bakery, Desserts",0.0,Indian Rupees(Rs.),No,Yes,No,No,0.0,Yellow,Good
+New Delhi,"Chinese, Fast Food",0.2222222222222222,Indian Rupees(Rs.),No,Yes,No,No,0.0,Red,Poor
+Gurgaon,"North Indian, South Indian, Fast Food",1.0,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+Gurgaon,"Street Food, Bakery",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"North Indian, Chinese",1.0,Indian Rupees(Rs.),Yes,Yes,No,No,1.0,Yellow,Good
+Macon,"Pizza, Sandwich, Vegetarian",0.0,Dollar($),No,No,No,No,1.0,Yellow,Good
+New Delhi,"Fast Food, Street Food",0.11111111111111105,Indian Rupees(Rs.),No,Yes,No,No,0.0,Yellow,Good
+New Delhi,"North Indian, Chinese, Fast Food, South Indian",0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"Burger, Fast Food",0.5555555555555556,Indian Rupees(Rs.),No,Yes,No,No,1.0,Yellow,Good
+New Delhi,"North Indian, Chinese, Mughlai",0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"North Indian, Chinese",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,Chinese,0.2222222222222222,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,North Indian,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"Fast Food, North Indian, Chinese",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"Pizza, Fast Food",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Yellow,Good
+Noida,"Street Food, Beverages",0.2222222222222222,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,Fast Food,0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Gurgaon,"Tea, Fast Food",0.0,Indian Rupees(Rs.),No,Yes,No,No,0.0,Yellow,Good
+New Delhi,Bakery,1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+Albany,"American, Steak",0.0,Dollar($),No,No,No,No,1.0,Yellow,Good
+New Delhi,"Mithai, Street Food, North Indian",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,Fast Food,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,Desserts,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,Chinese,0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"Bakery, Desserts, Fast Food",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Yellow,Good
+New Delhi,Street Food,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"Italian, Mediterranean, Continental, North Indian",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Green,Very Good
+New Delhi,"South Indian, Chinese",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Noida,North Indian,0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"Biryani, Mughlai",0.33333333333333326,Indian Rupees(Rs.),No,Yes,No,No,0.0,Orange,Average
+Faridabad,"Bakery, Desserts",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Mysore,"Cafe, Continental, European, Beverages",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Yellow,Good
+New Delhi,"Chinese, Fast Food, North Indian",0.2222222222222222,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"Bakery, Fast Food",0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Gurgaon,North Indian,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Noida,"Continental, Mexican, Italian",0.4444444444444444,Indian Rupees(Rs.),No,Yes,No,No,0.0,Yellow,Good
+Orlando,"Spanish, Tapas",0.0,Dollar($),No,No,No,No,1.0,Green,Very Good
+New Delhi,"Pizza, Fast Food",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Yellow,Good
+Noida,"North Indian, Chinese",0.8888888888888888,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+New Delhi,"Chinese, North Indian",0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"Burger, Fast Food",0.33333333333333326,Indian Rupees(Rs.),No,Yes,No,No,0.0,Orange,Average
+New Delhi,"Bakery, Desserts",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+Noida,"Fast Food, North Indian, Chinese",0.5555555555555556,Indian Rupees(Rs.),No,Yes,No,No,1.0,Orange,Average
+New Delhi,"North Indian, Mughlai",1.0,Indian Rupees(Rs.),Yes,Yes,No,No,1.0,Orange,Average
+New Delhi,"Burger, Fast Food",0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"North Indian, Chinese",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+Gurgaon,"Finger Food, Continental, Italian",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Yellow,Good
+Abu Dhabi,American,0.0,Emirati Diram(AED),No,No,No,No,1.0,Dark Green,Excellent
+New Delhi,"North Indian, Continental",1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Orange,Average
+New Delhi,Italian,1.0,Indian Rupees(Rs.),Yes,No,No,No,1.0,Green,Very Good
+Noida,Cafe,0.7777777777777777,Indian Rupees(Rs.),No,No,No,No,1.0,White,Not rated
+New Delhi,"North Indian, Chinese",0.4444444444444444,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,Fast Food,0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Noida,North Indian,0.0,Indian Rupees(Rs.),No,Yes,No,No,0.0,White,Not rated
+New Delhi,"Tibetan, Chinese",0.11111111111111105,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+New Delhi,"Pizza, Fast Food",0.2222222222222222,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+New Delhi,"Continental, North Indian, Asian",1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Yellow,Good
+New Delhi,South Indian,0.0,Indian Rupees(Rs.),No,No,No,No,0.0,Orange,Average
+Noida,"North Indian, Mughlai, Chinese",0.7777777777777777,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+New Delhi,North Indian,0.33333333333333326,Indian Rupees(Rs.),No,No,No,No,0.0,White,Not rated
+Noida,"Chinese, Fast Food",0.5555555555555556,Indian Rupees(Rs.),No,No,No,No,1.0,Orange,Average
+Bangalore,Continental,1.0,Indian Rupees(Rs.),No,No,No,No,1.0,Green,Very Good
+Cedar Rapids/Iowa City,International,0.0,Dollar($),No,No,No,No,1.0,Green,Very Good
