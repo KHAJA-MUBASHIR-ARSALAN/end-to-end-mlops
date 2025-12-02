@@ -1,0 +1,7 @@
+data_ingestion:
+  test_size : 0.2
+
+
+MT:
+  n_estimators : 200
+  random_state : 42

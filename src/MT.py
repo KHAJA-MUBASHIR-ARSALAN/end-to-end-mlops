@@ -7,7 +7,7 @@ from sklearn.compose import ColumnTransformer
 from sklearn.pipeline import Pipeline
 from sklearn.ensemble import RandomForestRegressor
 import joblib
-
+import yaml
 
 # ensure the log dir
 
@@ -41,6 +41,26 @@ file_handler.setFormatter(formatter)
 logger.addHandler(console_handler)
 logger.addHandler(file_handler)
 print("logging configured for model training")
+
+
+
+# params.yaml loading
+
+def params_load(params_path : str ) ->dict:
+  """loading parameters from yaml file"""
+  try:
+    with open(params_path,'r') as f:
+      params = yaml.safe_load(f)
+    return params
+  except FileNotFoundError as e: 
+    logger.error('file not found %s',e)
+    raise
+  except yaml.YAMLError as e:
+    logger.error('error while parsing yaml file %s',e)
+    raise
+  except Exception as e:
+    logger.error('unexpected error occure while loading the params %s',e)
+    raise
 
 
 def build_preprocessor():
@@ -110,10 +130,12 @@ def train():
   train_x = pd.read_csv('./data/interm/train_x_processed_data.csv')
   train_y = pd.read_csv('./data/interm/train_y_processed_data.csv').values.ravel()
 
+  params = params_load('params.yaml')['MT']
+
+
   model = build_model(
         RandomForestRegressor,
-        n_estimators=200,
-        random_state=42
+        **params
   )
   build_pipeline = build_model_pipeline(model)
 

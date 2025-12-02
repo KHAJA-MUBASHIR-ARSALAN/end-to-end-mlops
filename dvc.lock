@@ -5,8 +5,11 @@ stages:
     deps:
     - path: src/data_ingestion.py
       hash: md5
-      md5: 0d688aadcbc72584b5f36c6ea57a2ee7
-      size: 4264
+      md5: 1fae1d42bab332624b0690f4454ea462
+      size: 4922
+    params:
+      params.yaml:
+        data_ingestion.test_size: 0.2
     outs:
     - path: data/raw
       hash: md5
@@ -58,8 +61,12 @@ stages:
       nfiles: 4
     - path: src/MT.py
       hash: md5
-      md5: 25f1c396a73d49358bfcebf5b423edb9
-      size: 3705
+      md5: ae050eb2d44676588ab58577aa68a134
+      size: 4246
+    params:
+      params.yaml:
+        MT.n_estimators: 200
+        MT.random_state: 42
     outs:
     - path: models/model_pipeline.pkl
       hash: md5

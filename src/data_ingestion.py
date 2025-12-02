@@ -2,6 +2,7 @@ import pandas as pd
 import logging
 import os 
 from sklearn.model_selection import train_test_split as tts 
+import yaml
 
 
 
@@ -40,7 +41,23 @@ file_handler.setFormatter(formatter)
 logger.addHandler(console_handler)
 logger.addHandler(file_handler)
 
+# params.yaml loading
 
+def params_load(params_path : str ) ->dict:
+  """loading parameters from yaml file"""
+  try:
+    with open(params_path,'r') as f:
+      params = yaml.safe_load(f)
+    return params
+  except FileNotFoundError as e: 
+    logger.error('file not found %s',e)
+    raise
+  except yaml.YAMLError as e:
+    logger.error('error while parsing yaml file %s',e)
+    raise
+  except Exception as e:
+    logger.error('unexpected error occure while loading the params %s',e)
+    raise
 
 # loading data 
 
@@ -92,7 +109,9 @@ def preprocessing(df : pd.DataFrame) -> pd.DataFrame:
 
 def main(raw_data_path=RAW_DIR):
   try:
-    test_size = 0.2
+    logger.debug('data ingestion main() started')
+    params = params_load(params_path='params.yaml')
+    test_size = params['data_ingestion']['test_size']
     data_path = 'https://raw.githubusercontent.com/KHAJA-MUBASHIR-ARSALAN/end-to-end-mlops/main/experiments/Dataset.csv'
     df = load_data(data_url=data_path)
     final_df = preprocessing(df)
